@@ -1,0 +1,742 @@
+[2021-09-29 09:20:55,902] {processor.py:162} INFO - Started process (PID=74199) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:20:55,904] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:20:55,905] {logging_mixin.py:109} INFO - [2021-09-29 09:20:55,904] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:20:55,917] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:20:56,153] {logging_mixin.py:109} INFO - [2021-09-29 09:20:56,152] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:20:56,160] {logging_mixin.py:109} INFO - [2021-09-29 09:20:56,160] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:20:56,829] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.930 seconds
+[2021-09-29 09:21:46,741] {processor.py:162} INFO - Started process (PID=75170) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:21:46,824] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:21:46,826] {logging_mixin.py:109} INFO - [2021-09-29 09:21:46,826] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:21:46,855] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:21:46,870] {logging_mixin.py:109} INFO - [2021-09-29 09:21:46,870] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:21:46,879] {logging_mixin.py:109} INFO - [2021-09-29 09:21:46,879] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:21:47,274] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.539 seconds
+[2021-09-29 09:22:31,606] {processor.py:162} INFO - Started process (PID=75351) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:22:31,608] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:22:31,609] {logging_mixin.py:109} INFO - [2021-09-29 09:22:31,609] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:22:31,622] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:22:31,635] {logging_mixin.py:109} INFO - [2021-09-29 09:22:31,635] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:22:31,644] {logging_mixin.py:109} INFO - [2021-09-29 09:22:31,644] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:22:31,761] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.164 seconds
+[2021-09-29 09:23:13,852] {processor.py:162} INFO - Started process (PID=75517) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:23:13,855] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:23:13,856] {logging_mixin.py:109} INFO - [2021-09-29 09:23:13,856] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:23:13,870] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:23:13,883] {logging_mixin.py:109} INFO - [2021-09-29 09:23:13,883] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:23:13,892] {logging_mixin.py:109} INFO - [2021-09-29 09:23:13,891] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:23:13,989] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2021-09-29 09:23:56,847] {processor.py:162} INFO - Started process (PID=75721) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:23:56,849] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:23:56,850] {logging_mixin.py:109} INFO - [2021-09-29 09:23:56,850] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:23:56,863] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:23:56,876] {logging_mixin.py:109} INFO - [2021-09-29 09:23:56,875] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:23:56,885] {logging_mixin.py:109} INFO - [2021-09-29 09:23:56,885] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:23:56,986] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2021-09-29 09:24:41,073] {processor.py:162} INFO - Started process (PID=75894) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:24:41,075] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:24:41,076] {logging_mixin.py:109} INFO - [2021-09-29 09:24:41,076] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:24:41,090] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:24:41,103] {logging_mixin.py:109} INFO - [2021-09-29 09:24:41,103] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:24:41,112] {logging_mixin.py:109} INFO - [2021-09-29 09:24:41,112] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:24:41,209] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.147 seconds
+[2021-09-29 09:25:24,225] {processor.py:162} INFO - Started process (PID=76062) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:25:24,226] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:25:24,227] {logging_mixin.py:109} INFO - [2021-09-29 09:25:24,227] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:25:24,238] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:25:24,330] {logging_mixin.py:109} INFO - [2021-09-29 09:25:24,330] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:25:24,362] {logging_mixin.py:109} INFO - [2021-09-29 09:25:24,362] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:25:24,463] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.240 seconds
+[2021-09-29 09:26:08,750] {processor.py:162} INFO - Started process (PID=76232) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:26:08,751] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:26:08,752] {logging_mixin.py:109} INFO - [2021-09-29 09:26:08,752] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:26:08,763] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:26:08,886] {logging_mixin.py:109} INFO - [2021-09-29 09:26:08,886] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:26:08,905] {logging_mixin.py:109} INFO - [2021-09-29 09:26:08,905] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:26:09,000] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.253 seconds
+[2021-09-29 09:26:50,806] {processor.py:162} INFO - Started process (PID=76402) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:26:50,808] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:26:50,808] {logging_mixin.py:109} INFO - [2021-09-29 09:26:50,808] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:26:50,820] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:26:50,833] {logging_mixin.py:109} INFO - [2021-09-29 09:26:50,832] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:26:50,842] {logging_mixin.py:109} INFO - [2021-09-29 09:26:50,841] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:26:50,935] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.132 seconds
+[2021-09-29 09:27:39,264] {processor.py:162} INFO - Started process (PID=76573) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:27:39,268] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:27:39,269] {logging_mixin.py:109} INFO - [2021-09-29 09:27:39,268] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:27:39,281] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:27:39,294] {logging_mixin.py:109} INFO - [2021-09-29 09:27:39,294] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:27:39,303] {logging_mixin.py:109} INFO - [2021-09-29 09:27:39,302] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:27:39,418] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.164 seconds
+[2021-09-29 09:28:26,043] {processor.py:162} INFO - Started process (PID=76740) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:28:26,055] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:28:26,055] {logging_mixin.py:109} INFO - [2021-09-29 09:28:26,055] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:28:26,066] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:28:26,079] {logging_mixin.py:109} INFO - [2021-09-29 09:28:26,079] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:28:26,088] {logging_mixin.py:109} INFO - [2021-09-29 09:28:26,088] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:28:26,191] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.155 seconds
+[2021-09-29 09:29:09,198] {processor.py:162} INFO - Started process (PID=76918) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:29:09,199] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:29:09,200] {logging_mixin.py:109} INFO - [2021-09-29 09:29:09,200] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:29:09,210] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:29:09,328] {logging_mixin.py:109} INFO - [2021-09-29 09:29:09,328] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:29:09,359] {logging_mixin.py:109} INFO - [2021-09-29 09:29:09,359] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:29:09,456] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.261 seconds
+[2021-09-29 09:29:52,412] {processor.py:162} INFO - Started process (PID=77077) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:29:52,415] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:29:52,416] {logging_mixin.py:109} INFO - [2021-09-29 09:29:52,416] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:29:52,430] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:29:52,442] {logging_mixin.py:109} INFO - [2021-09-29 09:29:52,442] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:29:52,451] {logging_mixin.py:109} INFO - [2021-09-29 09:29:52,451] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:29:52,745] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.343 seconds
+[2021-09-29 09:30:37,815] {processor.py:162} INFO - Started process (PID=77250) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:30:37,929] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:30:37,931] {logging_mixin.py:109} INFO - [2021-09-29 09:30:37,931] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:30:37,965] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:30:37,979] {logging_mixin.py:109} INFO - [2021-09-29 09:30:37,979] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:30:37,988] {logging_mixin.py:109} INFO - [2021-09-29 09:30:37,988] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:30:39,298] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 1.486 seconds
+[2021-09-29 09:31:33,252] {processor.py:162} INFO - Started process (PID=77425) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:31:33,254] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:31:33,255] {logging_mixin.py:109} INFO - [2021-09-29 09:31:33,255] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:31:33,269] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:31:33,281] {logging_mixin.py:109} INFO - [2021-09-29 09:31:33,281] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:31:33,291] {logging_mixin.py:109} INFO - [2021-09-29 09:31:33,291] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:31:33,375] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.132 seconds
+[2021-09-29 09:32:16,870] {processor.py:162} INFO - Started process (PID=77589) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:32:16,872] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:32:16,872] {logging_mixin.py:109} INFO - [2021-09-29 09:32:16,872] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:32:16,883] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:32:17,016] {logging_mixin.py:109} INFO - [2021-09-29 09:32:17,015] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:32:17,036] {logging_mixin.py:109} INFO - [2021-09-29 09:32:17,036] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:32:17,133] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.266 seconds
+[2021-09-29 09:33:00,542] {processor.py:162} INFO - Started process (PID=77749) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:33:00,545] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:33:00,546] {logging_mixin.py:109} INFO - [2021-09-29 09:33:00,546] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:33:00,559] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:33:00,571] {logging_mixin.py:109} INFO - [2021-09-29 09:33:00,571] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:33:00,580] {logging_mixin.py:109} INFO - [2021-09-29 09:33:00,580] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:33:00,687] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.153 seconds
+[2021-09-29 09:33:48,722] {processor.py:162} INFO - Started process (PID=77919) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:33:48,726] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:33:48,727] {logging_mixin.py:109} INFO - [2021-09-29 09:33:48,727] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:33:48,742] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:33:48,757] {logging_mixin.py:109} INFO - [2021-09-29 09:33:48,757] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:33:48,765] {logging_mixin.py:109} INFO - [2021-09-29 09:33:48,765] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:33:48,849] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.131 seconds
+[2021-09-29 09:34:50,816] {processor.py:162} INFO - Started process (PID=78093) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:34:50,831] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:34:50,833] {logging_mixin.py:109} INFO - [2021-09-29 09:34:50,833] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:34:50,857] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:34:50,871] {logging_mixin.py:109} INFO - [2021-09-29 09:34:50,870] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:34:50,879] {logging_mixin.py:109} INFO - [2021-09-29 09:34:50,879] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:34:50,964] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.158 seconds
+[2021-09-29 09:35:57,088] {processor.py:162} INFO - Started process (PID=78271) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:35:57,104] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:35:57,106] {logging_mixin.py:109} INFO - [2021-09-29 09:35:57,106] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:35:57,126] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:35:57,139] {logging_mixin.py:109} INFO - [2021-09-29 09:35:57,138] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:35:57,148] {logging_mixin.py:109} INFO - [2021-09-29 09:35:57,147] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:35:57,231] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.154 seconds
+[2021-09-29 09:36:58,254] {processor.py:162} INFO - Started process (PID=78442) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:36:58,262] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:36:58,263] {logging_mixin.py:109} INFO - [2021-09-29 09:36:58,263] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:36:58,280] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:36:58,292] {logging_mixin.py:109} INFO - [2021-09-29 09:36:58,292] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:36:58,301] {logging_mixin.py:109} INFO - [2021-09-29 09:36:58,301] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:36:58,386] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.136 seconds
+[2021-09-29 09:37:39,591] {processor.py:162} INFO - Started process (PID=78481) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:37:39,601] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:37:39,603] {logging_mixin.py:109} INFO - [2021-09-29 09:37:39,602] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:37:39,620] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:37:39,633] {logging_mixin.py:109} INFO - [2021-09-29 09:37:39,633] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:37:39,642] {logging_mixin.py:109} INFO - [2021-09-29 09:37:39,642] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:37:39,766] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.186 seconds
+[2021-09-29 09:38:35,985] {processor.py:162} INFO - Started process (PID=78695) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:38:35,997] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:38:35,999] {logging_mixin.py:109} INFO - [2021-09-29 09:38:35,999] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:38:36,017] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:38:36,030] {logging_mixin.py:109} INFO - [2021-09-29 09:38:36,030] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:38:36,039] {logging_mixin.py:109} INFO - [2021-09-29 09:38:36,039] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:38:36,130] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.155 seconds
+[2021-09-29 09:39:20,851] {processor.py:162} INFO - Started process (PID=78860) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:39:20,856] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:39:20,857] {logging_mixin.py:109} INFO - [2021-09-29 09:39:20,857] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:39:20,873] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:39:20,886] {logging_mixin.py:109} INFO - [2021-09-29 09:39:20,886] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:39:20,894] {logging_mixin.py:109} INFO - [2021-09-29 09:39:20,894] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:39:20,984] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.143 seconds
+[2021-09-29 09:40:23,747] {processor.py:162} INFO - Started process (PID=79041) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:40:23,761] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:40:23,762] {logging_mixin.py:109} INFO - [2021-09-29 09:40:23,762] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:40:23,778] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:40:23,792] {logging_mixin.py:109} INFO - [2021-09-29 09:40:23,792] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:40:23,801] {logging_mixin.py:109} INFO - [2021-09-29 09:40:23,801] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:40:24,291] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.547 seconds
+[2021-09-29 09:41:32,686] {processor.py:162} INFO - Started process (PID=79274) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:41:32,699] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:41:32,700] {logging_mixin.py:109} INFO - [2021-09-29 09:41:32,700] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:41:32,714] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:41:32,728] {logging_mixin.py:109} INFO - [2021-09-29 09:41:32,728] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:41:32,737] {logging_mixin.py:109} INFO - [2021-09-29 09:41:32,737] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:41:32,837] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.154 seconds
+[2021-09-29 09:42:40,362] {processor.py:162} INFO - Started process (PID=79456) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:42:40,374] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:42:40,375] {logging_mixin.py:109} INFO - [2021-09-29 09:42:40,375] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:42:40,393] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:42:40,406] {logging_mixin.py:109} INFO - [2021-09-29 09:42:40,406] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:42:40,414] {logging_mixin.py:109} INFO - [2021-09-29 09:42:40,414] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:42:40,507] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.155 seconds
+[2021-09-29 09:43:46,178] {processor.py:162} INFO - Started process (PID=79651) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:43:46,180] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:43:46,180] {logging_mixin.py:109} INFO - [2021-09-29 09:43:46,180] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:43:46,191] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:43:46,204] {logging_mixin.py:109} INFO - [2021-09-29 09:43:46,204] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:43:46,213] {logging_mixin.py:109} INFO - [2021-09-29 09:43:46,213] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:43:46,300] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.125 seconds
+[2021-09-29 09:45:02,556] {processor.py:162} INFO - Started process (PID=79878) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:45:02,561] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:45:02,562] {logging_mixin.py:109} INFO - [2021-09-29 09:45:02,561] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:45:02,572] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:45:02,585] {logging_mixin.py:109} INFO - [2021-09-29 09:45:02,585] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:45:02,594] {logging_mixin.py:109} INFO - [2021-09-29 09:45:02,594] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:45:02,675] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds
+[2021-09-29 09:46:14,065] {processor.py:162} INFO - Started process (PID=80051) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:46:14,079] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:46:14,081] {logging_mixin.py:109} INFO - [2021-09-29 09:46:14,080] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:46:14,100] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:46:14,113] {logging_mixin.py:109} INFO - [2021-09-29 09:46:14,113] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:46:14,122] {logging_mixin.py:109} INFO - [2021-09-29 09:46:14,122] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:46:14,209] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.154 seconds
+[2021-09-29 09:47:13,826] {processor.py:162} INFO - Started process (PID=80217) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:47:13,839] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:47:13,841] {logging_mixin.py:109} INFO - [2021-09-29 09:47:13,841] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:47:13,868] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:47:13,883] {logging_mixin.py:109} INFO - [2021-09-29 09:47:13,883] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:47:13,892] {logging_mixin.py:109} INFO - [2021-09-29 09:47:13,891] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:47:13,977] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.154 seconds
+[2021-09-29 09:48:09,451] {processor.py:162} INFO - Started process (PID=80400) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:48:09,472] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:48:09,473] {logging_mixin.py:109} INFO - [2021-09-29 09:48:09,473] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:48:09,485] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:48:09,498] {logging_mixin.py:109} INFO - [2021-09-29 09:48:09,498] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:48:09,508] {logging_mixin.py:109} INFO - [2021-09-29 09:48:09,508] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:48:09,596] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.150 seconds
+[2021-09-29 09:49:02,242] {processor.py:162} INFO - Started process (PID=80472) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:49:03,434] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:49:03,436] {logging_mixin.py:109} INFO - [2021-09-29 09:49:03,436] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:49:03,464] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:49:03,478] {logging_mixin.py:109} INFO - [2021-09-29 09:49:03,478] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:49:03,486] {logging_mixin.py:109} INFO - [2021-09-29 09:49:03,486] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:49:03,652] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 1.424 seconds
+[2021-09-29 09:50:03,861] {processor.py:162} INFO - Started process (PID=80638) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:50:03,869] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:50:03,871] {logging_mixin.py:109} INFO - [2021-09-29 09:50:03,870] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:50:03,889] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:50:03,902] {logging_mixin.py:109} INFO - [2021-09-29 09:50:03,902] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:50:03,911] {logging_mixin.py:109} INFO - [2021-09-29 09:50:03,911] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:50:04,308] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.457 seconds
+[2021-09-29 09:50:57,837] {processor.py:162} INFO - Started process (PID=80801) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:50:57,841] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:50:57,843] {logging_mixin.py:109} INFO - [2021-09-29 09:50:57,843] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:50:57,859] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:50:57,872] {logging_mixin.py:109} INFO - [2021-09-29 09:50:57,872] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:50:57,881] {logging_mixin.py:109} INFO - [2021-09-29 09:50:57,881] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:50:58,962] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 1.136 seconds
+[2021-09-29 09:51:54,326] {processor.py:162} INFO - Started process (PID=80974) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:51:54,328] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:51:54,328] {logging_mixin.py:109} INFO - [2021-09-29 09:51:54,328] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:51:54,340] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:51:54,353] {logging_mixin.py:109} INFO - [2021-09-29 09:51:54,352] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:51:54,361] {logging_mixin.py:109} INFO - [2021-09-29 09:51:54,361] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:51:54,447] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.125 seconds
+[2021-09-29 09:52:56,080] {processor.py:162} INFO - Started process (PID=81149) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:52:56,098] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:52:56,100] {logging_mixin.py:109} INFO - [2021-09-29 09:52:56,100] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:52:56,118] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:52:56,131] {logging_mixin.py:109} INFO - [2021-09-29 09:52:56,131] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:52:56,139] {logging_mixin.py:109} INFO - [2021-09-29 09:52:56,139] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:52:56,228] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.158 seconds
+[2021-09-29 09:54:03,542] {processor.py:162} INFO - Started process (PID=81336) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:54:03,657] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:54:03,659] {logging_mixin.py:109} INFO - [2021-09-29 09:54:03,659] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:54:03,689] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:54:03,702] {logging_mixin.py:109} INFO - [2021-09-29 09:54:03,702] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:54:03,711] {logging_mixin.py:109} INFO - [2021-09-29 09:54:03,711] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:54:03,793] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.262 seconds
+[2021-09-29 09:54:58,508] {processor.py:162} INFO - Started process (PID=81503) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:54:58,525] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:54:58,527] {logging_mixin.py:109} INFO - [2021-09-29 09:54:58,527] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:54:58,550] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:54:58,563] {logging_mixin.py:109} INFO - [2021-09-29 09:54:58,563] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:54:58,572] {logging_mixin.py:109} INFO - [2021-09-29 09:54:58,572] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:54:58,656] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.158 seconds
+[2021-09-29 09:55:48,952] {processor.py:162} INFO - Started process (PID=81549) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:55:48,962] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:55:48,964] {logging_mixin.py:109} INFO - [2021-09-29 09:55:48,963] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:55:48,983] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:55:48,996] {logging_mixin.py:109} INFO - [2021-09-29 09:55:48,996] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:55:49,005] {logging_mixin.py:109} INFO - [2021-09-29 09:55:49,005] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:55:49,090] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.148 seconds
+[2021-09-29 09:56:43,676] {processor.py:162} INFO - Started process (PID=81717) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:56:43,685] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:56:43,686] {logging_mixin.py:109} INFO - [2021-09-29 09:56:43,686] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:56:43,710] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:56:43,724] {logging_mixin.py:109} INFO - [2021-09-29 09:56:43,724] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:56:43,733] {logging_mixin.py:109} INFO - [2021-09-29 09:56:43,733] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:56:45,407] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 1.736 seconds
+[2021-09-29 09:57:36,998] {processor.py:162} INFO - Started process (PID=81881) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:57:37,005] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:57:37,007] {logging_mixin.py:109} INFO - [2021-09-29 09:57:37,007] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:57:37,025] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:57:37,037] {logging_mixin.py:109} INFO - [2021-09-29 09:57:37,037] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:57:37,046] {logging_mixin.py:109} INFO - [2021-09-29 09:57:37,046] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:57:37,135] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.147 seconds
+[2021-09-29 09:58:41,602] {processor.py:162} INFO - Started process (PID=82071) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:58:41,613] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:58:41,615] {logging_mixin.py:109} INFO - [2021-09-29 09:58:41,615] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:58:41,635] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:58:41,648] {logging_mixin.py:109} INFO - [2021-09-29 09:58:41,648] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:58:41,656] {logging_mixin.py:109} INFO - [2021-09-29 09:58:41,656] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:58:41,741] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.149 seconds
+[2021-09-29 09:59:43,733] {processor.py:162} INFO - Started process (PID=82250) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:59:43,741] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 09:59:43,742] {logging_mixin.py:109} INFO - [2021-09-29 09:59:43,741] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:59:43,753] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 09:59:43,769] {logging_mixin.py:109} INFO - [2021-09-29 09:59:43,769] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:59:43,778] {logging_mixin.py:109} INFO - [2021-09-29 09:59:43,777] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:59:43,936] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.207 seconds
+[2021-09-29 10:00:49,332] {processor.py:162} INFO - Started process (PID=82437) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:00:49,353] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:00:49,355] {logging_mixin.py:109} INFO - [2021-09-29 10:00:49,354] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:00:49,377] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:00:49,390] {logging_mixin.py:109} INFO - [2021-09-29 10:00:49,390] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:00:49,400] {logging_mixin.py:109} INFO - [2021-09-29 10:00:49,399] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:00:49,482] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.160 seconds
+[2021-09-29 10:01:53,522] {processor.py:162} INFO - Started process (PID=82615) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:01:53,524] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:01:53,525] {logging_mixin.py:109} INFO - [2021-09-29 10:01:53,524] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:01:53,536] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:01:53,548] {logging_mixin.py:109} INFO - [2021-09-29 10:01:53,548] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:01:53,558] {logging_mixin.py:109} INFO - [2021-09-29 10:01:53,557] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:01:53,966] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.449 seconds
+[2021-09-29 10:02:53,893] {processor.py:162} INFO - Started process (PID=82794) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:02:53,895] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:02:53,896] {logging_mixin.py:109} INFO - [2021-09-29 10:02:53,896] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:02:53,913] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:02:53,926] {logging_mixin.py:109} INFO - [2021-09-29 10:02:53,926] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:02:53,935] {logging_mixin.py:109} INFO - [2021-09-29 10:02:53,935] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:02:54,025] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.136 seconds
+[2021-09-29 10:04:01,927] {processor.py:162} INFO - Started process (PID=82980) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:04:01,941] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:04:01,941] {logging_mixin.py:109} INFO - [2021-09-29 10:04:01,941] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:04:01,954] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:04:01,967] {logging_mixin.py:109} INFO - [2021-09-29 10:04:01,967] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:04:01,976] {logging_mixin.py:109} INFO - [2021-09-29 10:04:01,976] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:04:02,068] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2021-09-29 10:05:08,869] {processor.py:162} INFO - Started process (PID=83163) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:05:08,878] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:05:08,880] {logging_mixin.py:109} INFO - [2021-09-29 10:05:08,880] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:05:08,898] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:05:08,911] {logging_mixin.py:109} INFO - [2021-09-29 10:05:08,910] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:05:08,919] {logging_mixin.py:109} INFO - [2021-09-29 10:05:08,919] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:05:09,003] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.144 seconds
+[2021-09-29 10:06:07,662] {processor.py:162} INFO - Started process (PID=83338) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:06:07,666] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:06:07,668] {logging_mixin.py:109} INFO - [2021-09-29 10:06:07,668] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:06:07,690] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:06:07,703] {logging_mixin.py:109} INFO - [2021-09-29 10:06:07,703] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:06:07,712] {logging_mixin.py:109} INFO - [2021-09-29 10:06:07,712] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:06:07,802] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.151 seconds
+[2021-09-29 10:06:48,092] {processor.py:162} INFO - Started process (PID=83370) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:06:48,100] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:06:48,102] {logging_mixin.py:109} INFO - [2021-09-29 10:06:48,102] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:06:48,123] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:06:48,136] {logging_mixin.py:109} INFO - [2021-09-29 10:06:48,136] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:06:48,145] {logging_mixin.py:109} INFO - [2021-09-29 10:06:48,145] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:06:48,247] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.165 seconds
+[2021-09-29 10:07:39,667] {processor.py:162} INFO - Started process (PID=83539) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:07:39,681] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:07:39,683] {logging_mixin.py:109} INFO - [2021-09-29 10:07:39,682] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:07:39,706] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:07:39,719] {logging_mixin.py:109} INFO - [2021-09-29 10:07:39,719] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:07:39,728] {logging_mixin.py:109} INFO - [2021-09-29 10:07:39,728] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:07:39,812] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.155 seconds
+[2021-09-29 10:08:44,542] {processor.py:162} INFO - Started process (PID=83721) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:08:44,547] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:08:44,549] {logging_mixin.py:109} INFO - [2021-09-29 10:08:44,548] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:08:44,565] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:08:44,578] {logging_mixin.py:109} INFO - [2021-09-29 10:08:44,578] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:08:44,587] {logging_mixin.py:109} INFO - [2021-09-29 10:08:44,586] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:08:44,674] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.143 seconds
+[2021-09-29 10:09:47,508] {processor.py:162} INFO - Started process (PID=83900) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:09:47,510] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:09:47,510] {logging_mixin.py:109} INFO - [2021-09-29 10:09:47,510] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:09:47,521] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:09:47,534] {logging_mixin.py:109} INFO - [2021-09-29 10:09:47,534] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:09:47,543] {logging_mixin.py:109} INFO - [2021-09-29 10:09:47,543] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:09:47,626] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.120 seconds
+[2021-09-29 10:12:27,580] {processor.py:162} INFO - Started process (PID=84462) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:12:27,598] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:12:27,599] {logging_mixin.py:109} INFO - [2021-09-29 10:12:27,599] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:12:27,614] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:12:27,628] {logging_mixin.py:109} INFO - [2021-09-29 10:12:27,628] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:12:27,637] {logging_mixin.py:109} INFO - [2021-09-29 10:12:27,637] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:12:27,717] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2021-09-29 10:13:44,905] {processor.py:162} INFO - Started process (PID=84682) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:13:44,907] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:13:44,908] {logging_mixin.py:109} INFO - [2021-09-29 10:13:44,907] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:13:44,921] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:13:44,934] {logging_mixin.py:109} INFO - [2021-09-29 10:13:44,933] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:13:44,942] {logging_mixin.py:109} INFO - [2021-09-29 10:13:44,942] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:13:45,060] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.157 seconds
+[2021-09-29 10:14:47,913] {processor.py:162} INFO - Started process (PID=84856) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:14:47,918] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:14:47,918] {logging_mixin.py:109} INFO - [2021-09-29 10:14:47,918] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:14:47,930] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:14:47,942] {logging_mixin.py:109} INFO - [2021-09-29 10:14:47,942] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:14:47,951] {logging_mixin.py:109} INFO - [2021-09-29 10:14:47,951] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:14:48,029] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.119 seconds
+[2021-09-29 10:15:46,170] {processor.py:162} INFO - Started process (PID=85058) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:15:46,174] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:15:46,176] {logging_mixin.py:109} INFO - [2021-09-29 10:15:46,176] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:15:46,192] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:15:46,205] {logging_mixin.py:109} INFO - [2021-09-29 10:15:46,205] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:15:46,214] {logging_mixin.py:109} INFO - [2021-09-29 10:15:46,214] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:15:46,308] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.149 seconds
+[2021-09-29 10:17:11,980] {processor.py:162} INFO - Started process (PID=85246) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:17:11,996] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:17:11,999] {logging_mixin.py:109} INFO - [2021-09-29 10:17:11,998] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:17:12,021] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:17:12,034] {logging_mixin.py:109} INFO - [2021-09-29 10:17:12,034] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:17:12,043] {logging_mixin.py:109} INFO - [2021-09-29 10:17:12,043] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:17:12,411] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.441 seconds
+[2021-09-29 10:18:18,589] {processor.py:162} INFO - Started process (PID=85420) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:18:18,601] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:18:18,601] {logging_mixin.py:109} INFO - [2021-09-29 10:18:18,601] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:18:18,612] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:18:18,625] {logging_mixin.py:109} INFO - [2021-09-29 10:18:18,625] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:18:18,634] {logging_mixin.py:109} INFO - [2021-09-29 10:18:18,634] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:18:18,718] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.132 seconds
+[2021-09-29 10:19:29,702] {processor.py:162} INFO - Started process (PID=85608) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:19:29,719] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:19:29,720] {logging_mixin.py:109} INFO - [2021-09-29 10:19:29,720] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:19:29,735] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:19:29,750] {logging_mixin.py:109} INFO - [2021-09-29 10:19:29,750] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:19:29,759] {logging_mixin.py:109} INFO - [2021-09-29 10:19:29,759] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:19:29,842] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.142 seconds
+[2021-09-29 10:20:46,305] {processor.py:162} INFO - Started process (PID=85796) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:20:46,312] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:20:46,314] {logging_mixin.py:109} INFO - [2021-09-29 10:20:46,314] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:20:46,333] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:20:46,345] {logging_mixin.py:109} INFO - [2021-09-29 10:20:46,345] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:20:46,354] {logging_mixin.py:109} INFO - [2021-09-29 10:20:46,354] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:20:46,444] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.149 seconds
+[2021-09-29 10:21:49,932] {processor.py:162} INFO - Started process (PID=86024) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:21:49,996] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:21:49,998] {logging_mixin.py:109} INFO - [2021-09-29 10:21:49,997] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:21:50,023] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:21:50,038] {logging_mixin.py:109} INFO - [2021-09-29 10:21:50,038] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:21:50,047] {logging_mixin.py:109} INFO - [2021-09-29 10:21:50,047] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:21:50,555] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.628 seconds
+[2021-09-29 10:23:14,171] {processor.py:162} INFO - Started process (PID=86264) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:23:14,187] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:23:14,189] {logging_mixin.py:109} INFO - [2021-09-29 10:23:14,189] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:23:14,233] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:23:14,274] {logging_mixin.py:109} INFO - [2021-09-29 10:23:14,274] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:23:14,286] {logging_mixin.py:109} INFO - [2021-09-29 10:23:14,286] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:23:14,363] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.204 seconds
+[2021-09-29 10:24:32,891] {processor.py:162} INFO - Started process (PID=86467) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:24:32,904] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:24:32,907] {logging_mixin.py:109} INFO - [2021-09-29 10:24:32,907] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:24:32,942] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:24:32,971] {logging_mixin.py:109} INFO - [2021-09-29 10:24:32,971] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:24:32,983] {logging_mixin.py:109} INFO - [2021-09-29 10:24:32,983] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:24:33,109] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.226 seconds
+[2021-09-29 10:25:36,975] {processor.py:162} INFO - Started process (PID=86921) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:25:36,994] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:25:36,996] {logging_mixin.py:109} INFO - [2021-09-29 10:25:36,996] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:25:37,019] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:25:37,034] {logging_mixin.py:109} INFO - [2021-09-29 10:25:37,034] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:25:37,045] {logging_mixin.py:109} INFO - [2021-09-29 10:25:37,044] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:25:37,131] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.164 seconds
+[2021-09-29 10:26:34,620] {processor.py:162} INFO - Started process (PID=87090) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:26:34,638] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:26:34,639] {logging_mixin.py:109} INFO - [2021-09-29 10:26:34,639] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:26:34,657] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:26:34,682] {logging_mixin.py:109} INFO - [2021-09-29 10:26:34,682] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:26:34,701] {logging_mixin.py:109} INFO - [2021-09-29 10:26:34,701] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:26:34,933] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.316 seconds
+[2021-09-29 10:27:41,831] {processor.py:162} INFO - Started process (PID=87280) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:27:41,997] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:27:41,999] {logging_mixin.py:109} INFO - [2021-09-29 10:27:41,999] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:27:42,059] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:27:42,098] {logging_mixin.py:109} INFO - [2021-09-29 10:27:42,098] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:27:42,120] {logging_mixin.py:109} INFO - [2021-09-29 10:27:42,120] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:27:42,209] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.394 seconds
+[2021-09-29 10:28:25,974] {processor.py:162} INFO - Started process (PID=87323) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:28:26,103] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:28:26,106] {logging_mixin.py:109} INFO - [2021-09-29 10:28:26,105] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:28:26,160] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:28:26,188] {logging_mixin.py:109} INFO - [2021-09-29 10:28:26,187] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:28:26,199] {logging_mixin.py:109} INFO - [2021-09-29 10:28:26,199] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:28:26,632] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.669 seconds
+[2021-09-29 10:29:21,733] {processor.py:162} INFO - Started process (PID=87591) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:29:21,746] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:29:21,749] {logging_mixin.py:109} INFO - [2021-09-29 10:29:21,749] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:29:21,781] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:29:21,798] {logging_mixin.py:109} INFO - [2021-09-29 10:29:21,797] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:29:21,807] {logging_mixin.py:109} INFO - [2021-09-29 10:29:21,807] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:29:21,897] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.174 seconds
+[2021-09-29 10:30:11,517] {processor.py:162} INFO - Started process (PID=87751) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:30:11,520] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:30:11,522] {logging_mixin.py:109} INFO - [2021-09-29 10:30:11,522] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:30:11,550] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:30:11,566] {logging_mixin.py:109} INFO - [2021-09-29 10:30:11,566] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:30:11,575] {logging_mixin.py:109} INFO - [2021-09-29 10:30:11,575] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:30:11,659] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.150 seconds
+[2021-09-29 10:31:07,467] {processor.py:162} INFO - Started process (PID=87930) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:31:07,471] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:31:07,473] {logging_mixin.py:109} INFO - [2021-09-29 10:31:07,473] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:31:07,516] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:31:07,535] {logging_mixin.py:109} INFO - [2021-09-29 10:31:07,535] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:31:07,545] {logging_mixin.py:109} INFO - [2021-09-29 10:31:07,544] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:31:07,629] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.172 seconds
+[2021-09-29 10:32:15,352] {processor.py:162} INFO - Started process (PID=88130) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:32:15,366] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:32:15,368] {logging_mixin.py:109} INFO - [2021-09-29 10:32:15,368] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:32:15,387] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:32:15,406] {logging_mixin.py:109} INFO - [2021-09-29 10:32:15,403] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:32:15,418] {logging_mixin.py:109} INFO - [2021-09-29 10:32:15,417] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:32:15,506] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.164 seconds
+[2021-09-29 10:33:25,114] {processor.py:162} INFO - Started process (PID=88307) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:33:25,116] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:33:25,117] {logging_mixin.py:109} INFO - [2021-09-29 10:33:25,117] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:33:25,133] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:33:25,146] {logging_mixin.py:109} INFO - [2021-09-29 10:33:25,146] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:33:25,155] {logging_mixin.py:109} INFO - [2021-09-29 10:33:25,155] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:33:25,241] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.134 seconds
+[2021-09-29 10:34:28,878] {processor.py:162} INFO - Started process (PID=88482) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:34:28,894] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:34:28,895] {logging_mixin.py:109} INFO - [2021-09-29 10:34:28,895] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:34:28,917] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:34:28,933] {logging_mixin.py:109} INFO - [2021-09-29 10:34:28,932] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:34:28,942] {logging_mixin.py:109} INFO - [2021-09-29 10:34:28,942] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:34:29,022] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.154 seconds
+[2021-09-29 10:35:09,864] {processor.py:162} INFO - Started process (PID=88531) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:35:09,869] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:35:09,871] {logging_mixin.py:109} INFO - [2021-09-29 10:35:09,870] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:35:09,909] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:35:09,927] {logging_mixin.py:109} INFO - [2021-09-29 10:35:09,927] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:35:09,936] {logging_mixin.py:109} INFO - [2021-09-29 10:35:09,936] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:35:10,023] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.170 seconds
+[2021-09-29 10:36:04,457] {processor.py:162} INFO - Started process (PID=88699) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:36:04,463] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:36:04,465] {logging_mixin.py:109} INFO - [2021-09-29 10:36:04,465] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:36:04,506] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:36:04,530] {logging_mixin.py:109} INFO - [2021-09-29 10:36:04,530] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:36:04,541] {logging_mixin.py:109} INFO - [2021-09-29 10:36:04,540] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:36:04,618] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.170 seconds
+[2021-09-29 10:37:09,876] {processor.py:162} INFO - Started process (PID=88874) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:37:09,879] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:37:09,880] {logging_mixin.py:109} INFO - [2021-09-29 10:37:09,880] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:37:09,897] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:37:09,912] {logging_mixin.py:109} INFO - [2021-09-29 10:37:09,911] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:37:09,922] {logging_mixin.py:109} INFO - [2021-09-29 10:37:09,922] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:37:10,001] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.131 seconds
+[2021-09-29 10:37:54,374] {processor.py:162} INFO - Started process (PID=89025) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:37:54,378] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:37:54,380] {logging_mixin.py:109} INFO - [2021-09-29 10:37:54,379] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:37:54,419] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:37:54,446] {logging_mixin.py:109} INFO - [2021-09-29 10:37:54,446] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:37:54,456] {logging_mixin.py:109} INFO - [2021-09-29 10:37:54,456] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:37:54,544] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.180 seconds
+[2021-09-29 10:39:01,412] {processor.py:162} INFO - Started process (PID=89221) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:39:01,415] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:39:01,417] {logging_mixin.py:109} INFO - [2021-09-29 10:39:01,417] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:39:01,456] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:39:01,474] {logging_mixin.py:109} INFO - [2021-09-29 10:39:01,474] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:39:01,484] {logging_mixin.py:109} INFO - [2021-09-29 10:39:01,484] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:39:01,578] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.177 seconds
+[2021-09-29 10:39:43,779] {processor.py:162} INFO - Started process (PID=89255) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:39:43,801] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:39:43,804] {logging_mixin.py:109} INFO - [2021-09-29 10:39:43,804] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:39:43,857] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:39:43,888] {logging_mixin.py:109} INFO - [2021-09-29 10:39:43,888] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:39:43,899] {logging_mixin.py:109} INFO - [2021-09-29 10:39:43,898] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:39:43,980] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.214 seconds
+[2021-09-29 10:40:35,637] {processor.py:162} INFO - Started process (PID=89422) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:40:35,640] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:40:35,642] {logging_mixin.py:109} INFO - [2021-09-29 10:40:35,641] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:40:35,657] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:40:35,669] {logging_mixin.py:109} INFO - [2021-09-29 10:40:35,669] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:40:35,678] {logging_mixin.py:109} INFO - [2021-09-29 10:40:35,678] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:40:36,096] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.470 seconds
+[2021-09-29 10:41:50,085] {processor.py:162} INFO - Started process (PID=89604) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:41:50,090] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:41:50,093] {logging_mixin.py:109} INFO - [2021-09-29 10:41:50,093] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:41:50,115] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:41:50,128] {logging_mixin.py:109} INFO - [2021-09-29 10:41:50,128] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:41:50,136] {logging_mixin.py:109} INFO - [2021-09-29 10:41:50,136] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:41:51,396] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 1.315 seconds
+[2021-09-29 10:42:57,888] {processor.py:162} INFO - Started process (PID=89775) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:42:57,899] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:42:57,900] {logging_mixin.py:109} INFO - [2021-09-29 10:42:57,900] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:42:57,916] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:42:57,930] {logging_mixin.py:109} INFO - [2021-09-29 10:42:57,930] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:42:57,939] {logging_mixin.py:109} INFO - [2021-09-29 10:42:57,938] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:42:58,221] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.336 seconds
+[2021-09-29 10:43:51,904] {processor.py:162} INFO - Started process (PID=89941) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:43:51,909] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:43:51,911] {logging_mixin.py:109} INFO - [2021-09-29 10:43:51,911] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:43:51,929] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:43:51,942] {logging_mixin.py:109} INFO - [2021-09-29 10:43:51,942] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:43:51,951] {logging_mixin.py:109} INFO - [2021-09-29 10:43:51,951] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:43:52,040] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.145 seconds
+[2021-09-29 10:44:49,058] {processor.py:162} INFO - Started process (PID=90110) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:44:49,071] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:44:49,071] {logging_mixin.py:109} INFO - [2021-09-29 10:44:49,071] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:44:49,082] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:44:49,095] {logging_mixin.py:109} INFO - [2021-09-29 10:44:49,095] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:44:49,105] {logging_mixin.py:109} INFO - [2021-09-29 10:44:49,104] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:44:49,377] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.322 seconds
+[2021-09-29 10:45:52,534] {processor.py:162} INFO - Started process (PID=90299) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:45:52,547] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:45:52,549] {logging_mixin.py:109} INFO - [2021-09-29 10:45:52,549] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:45:52,571] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:45:52,584] {logging_mixin.py:109} INFO - [2021-09-29 10:45:52,584] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:45:52,593] {logging_mixin.py:109} INFO - [2021-09-29 10:45:52,593] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:45:52,693] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.169 seconds
+[2021-09-29 10:47:31,406] {processor.py:162} INFO - Started process (PID=90716) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:47:32,062] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:47:32,064] {logging_mixin.py:109} INFO - [2021-09-29 10:47:32,064] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:47:32,113] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:47:32,130] {logging_mixin.py:109} INFO - [2021-09-29 10:47:32,129] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:47:32,138] {logging_mixin.py:109} INFO - [2021-09-29 10:47:32,138] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:47:32,630] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 1.235 seconds
+[2021-09-29 10:48:43,518] {processor.py:162} INFO - Started process (PID=90957) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:48:43,532] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:48:43,533] {logging_mixin.py:109} INFO - [2021-09-29 10:48:43,533] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:48:43,558] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:48:43,573] {logging_mixin.py:109} INFO - [2021-09-29 10:48:43,572] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:48:43,581] {logging_mixin.py:109} INFO - [2021-09-29 10:48:43,581] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:48:43,672] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.157 seconds
+[2021-09-29 10:49:46,425] {processor.py:162} INFO - Started process (PID=91134) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:49:46,433] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:49:46,435] {logging_mixin.py:109} INFO - [2021-09-29 10:49:46,435] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:49:46,453] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:49:46,466] {logging_mixin.py:109} INFO - [2021-09-29 10:49:46,466] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:49:46,474] {logging_mixin.py:109} INFO - [2021-09-29 10:49:46,474] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:49:46,565] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.150 seconds
+[2021-09-29 10:50:51,644] {processor.py:162} INFO - Started process (PID=91309) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:50:51,656] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:50:51,658] {logging_mixin.py:109} INFO - [2021-09-29 10:50:51,657] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:50:51,678] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:50:51,691] {logging_mixin.py:109} INFO - [2021-09-29 10:50:51,691] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:50:51,699] {logging_mixin.py:109} INFO - [2021-09-29 10:50:51,699] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:50:51,779] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.145 seconds
+[2021-09-29 10:51:59,524] {processor.py:162} INFO - Started process (PID=91485) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:51:59,544] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:51:59,546] {logging_mixin.py:109} INFO - [2021-09-29 10:51:59,546] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:51:59,577] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:51:59,591] {logging_mixin.py:109} INFO - [2021-09-29 10:51:59,591] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:51:59,600] {logging_mixin.py:109} INFO - [2021-09-29 10:51:59,600] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:51:59,685] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.164 seconds
+[2021-09-29 10:53:02,865] {processor.py:162} INFO - Started process (PID=91668) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:53:02,877] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:53:02,879] {logging_mixin.py:109} INFO - [2021-09-29 10:53:02,879] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:53:02,899] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:53:02,912] {logging_mixin.py:109} INFO - [2021-09-29 10:53:02,911] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:53:02,920] {logging_mixin.py:109} INFO - [2021-09-29 10:53:02,920] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:53:03,003] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.149 seconds
+[2021-09-29 10:54:05,280] {processor.py:162} INFO - Started process (PID=91838) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:54:05,298] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:54:05,299] {logging_mixin.py:109} INFO - [2021-09-29 10:54:05,299] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:54:05,311] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:54:05,324] {logging_mixin.py:109} INFO - [2021-09-29 10:54:05,323] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:54:05,332] {logging_mixin.py:109} INFO - [2021-09-29 10:54:05,332] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:54:05,416] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2021-09-29 10:54:55,938] {processor.py:162} INFO - Started process (PID=91873) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:54:55,952] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:54:55,954] {logging_mixin.py:109} INFO - [2021-09-29 10:54:55,954] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:54:55,978] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:54:55,991] {logging_mixin.py:109} INFO - [2021-09-29 10:54:55,991] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:54:56,000] {logging_mixin.py:109} INFO - [2021-09-29 10:54:56,000] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:54:56,092] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.164 seconds
+[2021-09-29 10:55:50,749] {processor.py:162} INFO - Started process (PID=92042) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:55:50,764] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:55:50,766] {logging_mixin.py:109} INFO - [2021-09-29 10:55:50,766] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:55:50,791] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:55:50,804] {logging_mixin.py:109} INFO - [2021-09-29 10:55:50,804] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:55:50,813] {logging_mixin.py:109} INFO - [2021-09-29 10:55:50,813] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:55:50,903] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.165 seconds
+[2021-09-29 10:56:41,251] {processor.py:162} INFO - Started process (PID=92210) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:56:41,263] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:56:41,264] {logging_mixin.py:109} INFO - [2021-09-29 10:56:41,264] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:56:41,275] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:56:41,288] {logging_mixin.py:109} INFO - [2021-09-29 10:56:41,288] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:56:41,297] {logging_mixin.py:109} INFO - [2021-09-29 10:56:41,297] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:56:41,382] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.135 seconds
+[2021-09-29 10:57:25,934] {processor.py:162} INFO - Started process (PID=92366) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:57:25,944] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:57:25,945] {logging_mixin.py:109} INFO - [2021-09-29 10:57:25,945] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:57:25,962] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:57:25,975] {logging_mixin.py:109} INFO - [2021-09-29 10:57:25,975] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:57:25,984] {logging_mixin.py:109} INFO - [2021-09-29 10:57:25,984] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:57:26,074] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.149 seconds
+[2021-09-29 10:58:27,760] {processor.py:162} INFO - Started process (PID=92546) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:58:27,772] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:58:27,774] {logging_mixin.py:109} INFO - [2021-09-29 10:58:27,774] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:58:27,797] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:58:27,810] {logging_mixin.py:109} INFO - [2021-09-29 10:58:27,810] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:58:27,819] {logging_mixin.py:109} INFO - [2021-09-29 10:58:27,819] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:58:27,902] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.151 seconds
+[2021-09-29 10:59:30,598] {processor.py:162} INFO - Started process (PID=92720) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:59:30,607] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 10:59:30,608] {logging_mixin.py:109} INFO - [2021-09-29 10:59:30,608] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:59:30,631] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 10:59:30,645] {logging_mixin.py:109} INFO - [2021-09-29 10:59:30,645] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:59:30,654] {logging_mixin.py:109} INFO - [2021-09-29 10:59:30,654] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:59:30,743] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.149 seconds
+[2021-09-29 11:00:33,789] {processor.py:162} INFO - Started process (PID=92898) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:00:33,792] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 11:00:33,793] {logging_mixin.py:109} INFO - [2021-09-29 11:00:33,793] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:00:33,808] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:00:33,821] {logging_mixin.py:109} INFO - [2021-09-29 11:00:33,821] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:00:33,829] {logging_mixin.py:109} INFO - [2021-09-29 11:00:33,829] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:00:33,914] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.135 seconds
+[2021-09-29 11:01:37,230] {processor.py:162} INFO - Started process (PID=93090) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:01:37,234] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 11:01:37,236] {logging_mixin.py:109} INFO - [2021-09-29 11:01:37,236] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:01:37,254] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:01:37,267] {logging_mixin.py:109} INFO - [2021-09-29 11:01:37,267] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:01:37,276] {logging_mixin.py:109} INFO - [2021-09-29 11:01:37,276] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:01:37,355] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.134 seconds
+[2021-09-29 11:02:38,107] {processor.py:162} INFO - Started process (PID=93266) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:02:38,122] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 11:02:38,124] {logging_mixin.py:109} INFO - [2021-09-29 11:02:38,124] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:02:38,147] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:02:38,160] {logging_mixin.py:109} INFO - [2021-09-29 11:02:38,160] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:02:38,169] {logging_mixin.py:109} INFO - [2021-09-29 11:02:38,169] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:02:38,248] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.150 seconds
+[2021-09-29 11:03:41,137] {processor.py:162} INFO - Started process (PID=93440) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:03:41,144] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 11:03:41,146] {logging_mixin.py:109} INFO - [2021-09-29 11:03:41,146] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:03:41,165] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:03:41,178] {logging_mixin.py:109} INFO - [2021-09-29 11:03:41,178] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:03:41,186] {logging_mixin.py:109} INFO - [2021-09-29 11:03:41,186] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:03:41,275] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.148 seconds
+[2021-09-29 11:04:45,111] {processor.py:162} INFO - Started process (PID=93611) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:04:45,122] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 11:04:45,124] {logging_mixin.py:109} INFO - [2021-09-29 11:04:45,123] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:04:45,144] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:04:45,157] {logging_mixin.py:109} INFO - [2021-09-29 11:04:45,157] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:04:45,166] {logging_mixin.py:109} INFO - [2021-09-29 11:04:45,166] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:04:45,252] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.152 seconds
+[2021-09-29 11:05:48,422] {processor.py:162} INFO - Started process (PID=93784) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:05:48,436] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-29 11:05:48,436] {logging_mixin.py:109} INFO - [2021-09-29 11:05:48,436] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:05:48,447] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-29 11:05:48,461] {logging_mixin.py:109} INFO - [2021-09-29 11:05:48,460] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:05:48,470] {logging_mixin.py:109} INFO - [2021-09-29 11:05:48,470] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:05:48,553] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.135 seconds

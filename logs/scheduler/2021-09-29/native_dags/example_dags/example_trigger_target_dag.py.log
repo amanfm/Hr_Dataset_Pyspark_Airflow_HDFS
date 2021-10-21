@@ -1,0 +1,833 @@
+[2021-09-29 09:20:49,429] {processor.py:162} INFO - Started process (PID=73932) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:20:49,430] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:20:49,431] {logging_mixin.py:109} INFO - [2021-09-29 09:20:49,431] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:20:49,448] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:20:49,680] {logging_mixin.py:109} INFO - [2021-09-29 09:20:49,680] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:20:49,688] {logging_mixin.py:109} INFO - [2021-09-29 09:20:49,687] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:20:49,822] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.397 seconds
+[2021-09-29 09:21:43,224] {processor.py:162} INFO - Started process (PID=75157) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:21:43,271] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:21:43,272] {logging_mixin.py:109} INFO - [2021-09-29 09:21:43,272] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:21:43,284] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:21:43,296] {logging_mixin.py:109} INFO - [2021-09-29 09:21:43,296] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:21:43,305] {logging_mixin.py:109} INFO - [2021-09-29 09:21:43,305] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:21:44,067] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.847 seconds
+[2021-09-29 09:22:28,304] {processor.py:162} INFO - Started process (PID=75348) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:22:28,305] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:22:28,305] {logging_mixin.py:109} INFO - [2021-09-29 09:22:28,305] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:22:28,318] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:22:28,450] {logging_mixin.py:109} INFO - [2021-09-29 09:22:28,450] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:22:28,469] {logging_mixin.py:109} INFO - [2021-09-29 09:22:28,469] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:22:28,561] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.260 seconds
+[2021-09-29 09:23:10,748] {processor.py:162} INFO - Started process (PID=75514) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:23:10,758] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:23:10,759] {logging_mixin.py:109} INFO - [2021-09-29 09:23:10,759] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:23:10,772] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:23:10,784] {logging_mixin.py:109} INFO - [2021-09-29 09:23:10,784] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:23:10,793] {logging_mixin.py:109} INFO - [2021-09-29 09:23:10,793] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:23:10,893] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.150 seconds
+[2021-09-29 09:23:53,827] {processor.py:162} INFO - Started process (PID=75717) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:23:53,835] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:23:53,836] {logging_mixin.py:109} INFO - [2021-09-29 09:23:53,836] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:23:53,849] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:23:53,861] {logging_mixin.py:109} INFO - [2021-09-29 09:23:53,861] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:23:53,870] {logging_mixin.py:109} INFO - [2021-09-29 09:23:53,870] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:23:53,969] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.149 seconds
+[2021-09-29 09:24:37,990] {processor.py:162} INFO - Started process (PID=75889) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:24:37,995] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:24:37,996] {logging_mixin.py:109} INFO - [2021-09-29 09:24:37,996] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:24:38,010] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:24:38,022] {logging_mixin.py:109} INFO - [2021-09-29 09:24:38,022] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:24:38,031] {logging_mixin.py:109} INFO - [2021-09-29 09:24:38,031] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:24:38,130] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.148 seconds
+[2021-09-29 09:25:21,266] {processor.py:162} INFO - Started process (PID=76058) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:25:21,268] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:25:21,268] {logging_mixin.py:109} INFO - [2021-09-29 09:25:21,268] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:25:21,286] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:25:21,299] {logging_mixin.py:109} INFO - [2021-09-29 09:25:21,298] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:25:21,307] {logging_mixin.py:109} INFO - [2021-09-29 09:25:21,307] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:25:21,394] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.132 seconds
+[2021-09-29 09:26:05,804] {processor.py:162} INFO - Started process (PID=76228) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:26:05,815] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:26:05,816] {logging_mixin.py:109} INFO - [2021-09-29 09:26:05,816] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:26:05,828] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:26:05,841] {logging_mixin.py:109} INFO - [2021-09-29 09:26:05,841] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:26:05,850] {logging_mixin.py:109} INFO - [2021-09-29 09:26:05,849] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:26:05,945] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.151 seconds
+[2021-09-29 09:26:47,490] {processor.py:162} INFO - Started process (PID=76398) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:26:47,498] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:26:47,499] {logging_mixin.py:109} INFO - [2021-09-29 09:26:47,499] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:26:47,512] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:26:47,656] {logging_mixin.py:109} INFO - [2021-09-29 09:26:47,656] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:26:47,688] {logging_mixin.py:109} INFO - [2021-09-29 09:26:47,687] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:26:47,777] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.296 seconds
+[2021-09-29 09:27:36,198] {processor.py:162} INFO - Started process (PID=76568) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:27:36,209] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:27:36,210] {logging_mixin.py:109} INFO - [2021-09-29 09:27:36,210] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:27:36,222] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:27:36,234] {logging_mixin.py:109} INFO - [2021-09-29 09:27:36,234] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:27:36,243] {logging_mixin.py:109} INFO - [2021-09-29 09:27:36,243] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:27:36,343] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2021-09-29 09:28:22,991] {processor.py:162} INFO - Started process (PID=76736) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:28:22,995] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:28:22,996] {logging_mixin.py:109} INFO - [2021-09-29 09:28:22,996] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:28:23,010] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:28:23,023] {logging_mixin.py:109} INFO - [2021-09-29 09:28:23,023] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:28:23,031] {logging_mixin.py:109} INFO - [2021-09-29 09:28:23,031] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:28:23,136] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2021-09-29 09:29:06,279] {processor.py:162} INFO - Started process (PID=76915) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:29:06,281] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:29:06,282] {logging_mixin.py:109} INFO - [2021-09-29 09:29:06,282] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:29:06,297] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:29:06,310] {logging_mixin.py:109} INFO - [2021-09-29 09:29:06,310] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:29:06,318] {logging_mixin.py:109} INFO - [2021-09-29 09:29:06,318] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:29:06,417] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.147 seconds
+[2021-09-29 09:29:49,226] {processor.py:162} INFO - Started process (PID=77074) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:29:49,240] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:29:49,241] {logging_mixin.py:109} INFO - [2021-09-29 09:29:49,240] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:29:49,252] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:29:49,265] {logging_mixin.py:109} INFO - [2021-09-29 09:29:49,265] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:29:49,274] {logging_mixin.py:109} INFO - [2021-09-29 09:29:49,274] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:29:49,369] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.151 seconds
+[2021-09-29 09:30:34,629] {processor.py:162} INFO - Started process (PID=77247) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:30:34,636] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:30:34,636] {logging_mixin.py:109} INFO - [2021-09-29 09:30:34,636] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:30:34,648] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:30:34,661] {logging_mixin.py:109} INFO - [2021-09-29 09:30:34,661] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:30:34,670] {logging_mixin.py:109} INFO - [2021-09-29 09:30:34,670] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:30:34,766] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.140 seconds
+[2021-09-29 09:31:30,219] {processor.py:162} INFO - Started process (PID=77422) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:31:30,221] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:31:30,223] {logging_mixin.py:109} INFO - [2021-09-29 09:31:30,222] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:31:30,242] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:31:30,255] {logging_mixin.py:109} INFO - [2021-09-29 09:31:30,254] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:31:30,264] {logging_mixin.py:109} INFO - [2021-09-29 09:31:30,263] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:31:30,349] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.140 seconds
+[2021-09-29 09:32:13,903] {processor.py:162} INFO - Started process (PID=77586) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:32:13,904] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:32:13,905] {logging_mixin.py:109} INFO - [2021-09-29 09:32:13,905] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:32:13,918] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:32:13,931] {logging_mixin.py:109} INFO - [2021-09-29 09:32:13,931] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:32:13,940] {logging_mixin.py:109} INFO - [2021-09-29 09:32:13,939] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:32:14,039] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.138 seconds
+[2021-09-29 09:32:57,357] {processor.py:162} INFO - Started process (PID=77746) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:32:57,360] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:32:57,361] {logging_mixin.py:109} INFO - [2021-09-29 09:32:57,361] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:32:57,374] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:32:57,386] {logging_mixin.py:109} INFO - [2021-09-29 09:32:57,386] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:32:57,395] {logging_mixin.py:109} INFO - [2021-09-29 09:32:57,395] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:32:57,486] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.135 seconds
+[2021-09-29 09:33:45,289] {processor.py:162} INFO - Started process (PID=77916) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:33:45,296] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:33:45,297] {logging_mixin.py:109} INFO - [2021-09-29 09:33:45,296] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:33:45,314] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:33:45,327] {logging_mixin.py:109} INFO - [2021-09-29 09:33:45,327] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:33:45,336] {logging_mixin.py:109} INFO - [2021-09-29 09:33:45,336] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:33:45,422] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.137 seconds
+[2021-09-29 09:34:47,729] {processor.py:162} INFO - Started process (PID=78090) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:34:47,731] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:34:47,732] {logging_mixin.py:109} INFO - [2021-09-29 09:34:47,732] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:34:47,752] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:34:47,764] {logging_mixin.py:109} INFO - [2021-09-29 09:34:47,764] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:34:47,773] {logging_mixin.py:109} INFO - [2021-09-29 09:34:47,773] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:34:47,855] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.132 seconds
+[2021-09-29 09:35:53,936] {processor.py:162} INFO - Started process (PID=78267) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:35:53,940] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:35:53,941] {logging_mixin.py:109} INFO - [2021-09-29 09:35:53,941] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:35:53,959] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:35:53,971] {logging_mixin.py:109} INFO - [2021-09-29 09:35:53,971] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:35:53,980] {logging_mixin.py:109} INFO - [2021-09-29 09:35:53,980] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:35:54,068] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.136 seconds
+[2021-09-29 09:36:54,335] {processor.py:162} INFO - Started process (PID=78438) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:36:54,349] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:36:54,351] {logging_mixin.py:109} INFO - [2021-09-29 09:36:54,351] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:36:54,373] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:36:54,386] {logging_mixin.py:109} INFO - [2021-09-29 09:36:54,385] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:36:54,394] {logging_mixin.py:109} INFO - [2021-09-29 09:36:54,394] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:36:54,483] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.159 seconds
+[2021-09-29 09:37:35,348] {processor.py:162} INFO - Started process (PID=78478) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:37:35,356] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:37:35,358] {logging_mixin.py:109} INFO - [2021-09-29 09:37:35,358] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:37:35,382] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:37:35,395] {logging_mixin.py:109} INFO - [2021-09-29 09:37:35,395] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:37:35,404] {logging_mixin.py:109} INFO - [2021-09-29 09:37:35,404] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:37:35,487] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.149 seconds
+[2021-09-29 09:38:30,873] {processor.py:162} INFO - Started process (PID=78692) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:38:30,920] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:38:30,922] {logging_mixin.py:109} INFO - [2021-09-29 09:38:30,922] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:38:30,954] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:38:30,967] {logging_mixin.py:109} INFO - [2021-09-29 09:38:30,967] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:38:30,976] {logging_mixin.py:109} INFO - [2021-09-29 09:38:30,975] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:38:32,237] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.373 seconds
+[2021-09-29 09:39:16,909] {processor.py:162} INFO - Started process (PID=78857) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:39:16,922] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:39:16,923] {logging_mixin.py:109} INFO - [2021-09-29 09:39:16,923] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:39:16,935] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:39:16,948] {logging_mixin.py:109} INFO - [2021-09-29 09:39:16,948] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:39:16,957] {logging_mixin.py:109} INFO - [2021-09-29 09:39:16,957] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:39:17,048] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.149 seconds
+[2021-09-29 09:39:56,108] {processor.py:162} INFO - Started process (PID=78892) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:39:56,109] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:39:56,110] {logging_mixin.py:109} INFO - [2021-09-29 09:39:56,110] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:39:56,122] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:39:56,135] {logging_mixin.py:109} INFO - [2021-09-29 09:39:56,134] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:39:56,143] {logging_mixin.py:109} INFO - [2021-09-29 09:39:56,143] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:39:56,237] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.132 seconds
+[2021-09-29 09:40:46,852] {processor.py:162} INFO - Started process (PID=79070) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:40:46,865] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:40:46,867] {logging_mixin.py:109} INFO - [2021-09-29 09:40:46,867] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:40:46,891] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:40:46,905] {logging_mixin.py:109} INFO - [2021-09-29 09:40:46,905] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:40:46,915] {logging_mixin.py:109} INFO - [2021-09-29 09:40:46,915] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:40:47,354] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.512 seconds
+[2021-09-29 09:41:30,167] {processor.py:162} INFO - Started process (PID=79271) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:41:30,178] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:41:30,179] {logging_mixin.py:109} INFO - [2021-09-29 09:41:30,179] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:41:30,197] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:41:30,209] {logging_mixin.py:109} INFO - [2021-09-29 09:41:30,209] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:41:30,217] {logging_mixin.py:109} INFO - [2021-09-29 09:41:30,217] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:41:30,311] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.147 seconds
+[2021-09-29 09:42:13,311] {processor.py:162} INFO - Started process (PID=79312) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:42:13,316] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:42:13,316] {logging_mixin.py:109} INFO - [2021-09-29 09:42:13,316] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:42:13,328] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:42:13,340] {logging_mixin.py:109} INFO - [2021-09-29 09:42:13,340] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:42:13,348] {logging_mixin.py:109} INFO - [2021-09-29 09:42:13,348] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:42:13,433] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.124 seconds
+[2021-09-29 09:43:02,987] {processor.py:162} INFO - Started process (PID=79484) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:43:03,006] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:43:03,008] {logging_mixin.py:109} INFO - [2021-09-29 09:43:03,008] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:43:03,030] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:43:03,042] {logging_mixin.py:109} INFO - [2021-09-29 09:43:03,042] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:43:03,051] {logging_mixin.py:109} INFO - [2021-09-29 09:43:03,051] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:43:03,136] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.159 seconds
+[2021-09-29 09:43:44,942] {processor.py:162} INFO - Started process (PID=79650) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:43:44,944] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:43:44,945] {logging_mixin.py:109} INFO - [2021-09-29 09:43:44,944] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:43:44,956] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:43:44,968] {logging_mixin.py:109} INFO - [2021-09-29 09:43:44,968] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:43:44,976] {logging_mixin.py:109} INFO - [2021-09-29 09:43:44,976] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:43:45,067] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.127 seconds
+[2021-09-29 09:45:00,030] {processor.py:162} INFO - Started process (PID=79864) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:45:00,039] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:45:00,040] {logging_mixin.py:109} INFO - [2021-09-29 09:45:00,040] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:45:00,057] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:45:00,070] {logging_mixin.py:109} INFO - [2021-09-29 09:45:00,070] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:45:00,080] {logging_mixin.py:109} INFO - [2021-09-29 09:45:00,079] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:45:00,164] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.139 seconds
+[2021-09-29 09:46:10,077] {processor.py:162} INFO - Started process (PID=80048) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:46:10,088] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:46:10,088] {logging_mixin.py:109} INFO - [2021-09-29 09:46:10,088] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:46:10,106] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:46:10,119] {logging_mixin.py:109} INFO - [2021-09-29 09:46:10,119] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:46:10,128] {logging_mixin.py:109} INFO - [2021-09-29 09:46:10,128] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:46:10,255] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.182 seconds
+[2021-09-29 09:47:06,607] {processor.py:162} INFO - Started process (PID=80214) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:47:06,618] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:47:06,619] {logging_mixin.py:109} INFO - [2021-09-29 09:47:06,619] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:47:06,631] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:47:06,643] {logging_mixin.py:109} INFO - [2021-09-29 09:47:06,643] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:47:06,652] {logging_mixin.py:109} INFO - [2021-09-29 09:47:06,652] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:47:07,176] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.573 seconds
+[2021-09-29 09:48:05,641] {processor.py:162} INFO - Started process (PID=80396) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:48:05,648] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:48:05,649] {logging_mixin.py:109} INFO - [2021-09-29 09:48:05,649] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:48:05,664] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:48:05,677] {logging_mixin.py:109} INFO - [2021-09-29 09:48:05,677] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:48:05,685] {logging_mixin.py:109} INFO - [2021-09-29 09:48:05,685] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:48:05,784] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2021-09-29 09:48:57,131] {processor.py:162} INFO - Started process (PID=80461) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:48:57,668] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:48:57,670] {logging_mixin.py:109} INFO - [2021-09-29 09:48:57,669] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:48:57,689] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:48:57,703] {logging_mixin.py:109} INFO - [2021-09-29 09:48:57,703] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:48:57,713] {logging_mixin.py:109} INFO - [2021-09-29 09:48:57,713] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:48:57,852] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.724 seconds
+[2021-09-29 09:49:59,875] {processor.py:162} INFO - Started process (PID=80629) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:49:59,891] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:49:59,893] {logging_mixin.py:109} INFO - [2021-09-29 09:49:59,893] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:49:59,918] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:49:59,931] {logging_mixin.py:109} INFO - [2021-09-29 09:49:59,930] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:49:59,939] {logging_mixin.py:109} INFO - [2021-09-29 09:49:59,939] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:50:00,031] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.166 seconds
+[2021-09-29 09:50:53,919] {processor.py:162} INFO - Started process (PID=80797) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:50:53,921] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:50:53,922] {logging_mixin.py:109} INFO - [2021-09-29 09:50:53,922] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:50:53,936] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:50:53,949] {logging_mixin.py:109} INFO - [2021-09-29 09:50:53,949] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:50:53,958] {logging_mixin.py:109} INFO - [2021-09-29 09:50:53,958] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:50:54,047] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.135 seconds
+[2021-09-29 09:51:50,118] {processor.py:162} INFO - Started process (PID=80971) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:51:50,123] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:51:50,125] {logging_mixin.py:109} INFO - [2021-09-29 09:51:50,125] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:51:50,144] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:51:50,157] {logging_mixin.py:109} INFO - [2021-09-29 09:51:50,157] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:51:50,166] {logging_mixin.py:109} INFO - [2021-09-29 09:51:50,165] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:51:50,258] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.151 seconds
+[2021-09-29 09:52:50,980] {processor.py:162} INFO - Started process (PID=81145) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:52:50,984] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:52:50,985] {logging_mixin.py:109} INFO - [2021-09-29 09:52:50,985] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:52:51,001] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:52:51,014] {logging_mixin.py:109} INFO - [2021-09-29 09:52:51,014] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:52:51,022] {logging_mixin.py:109} INFO - [2021-09-29 09:52:51,022] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:52:51,491] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.522 seconds
+[2021-09-29 09:53:58,998] {processor.py:162} INFO - Started process (PID=81323) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:53:59,002] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:53:59,003] {logging_mixin.py:109} INFO - [2021-09-29 09:53:59,003] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:53:59,015] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:53:59,028] {logging_mixin.py:109} INFO - [2021-09-29 09:53:59,027] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:53:59,036] {logging_mixin.py:109} INFO - [2021-09-29 09:53:59,036] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:54:00,429] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.434 seconds
+[2021-09-29 09:54:54,597] {processor.py:162} INFO - Started process (PID=81498) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:54:54,600] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:54:54,601] {logging_mixin.py:109} INFO - [2021-09-29 09:54:54,601] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:54:54,615] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:54:54,628] {logging_mixin.py:109} INFO - [2021-09-29 09:54:54,628] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:54:54,637] {logging_mixin.py:109} INFO - [2021-09-29 09:54:54,637] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:54:54,738] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.149 seconds
+[2021-09-29 09:55:45,850] {processor.py:162} INFO - Started process (PID=81546) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:55:45,857] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:55:45,858] {logging_mixin.py:109} INFO - [2021-09-29 09:55:45,858] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:55:45,884] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:55:45,899] {logging_mixin.py:109} INFO - [2021-09-29 09:55:45,899] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:55:45,907] {logging_mixin.py:109} INFO - [2021-09-29 09:55:45,907] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:55:45,999] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.152 seconds
+[2021-09-29 09:56:39,683] {processor.py:162} INFO - Started process (PID=81714) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:56:39,684] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:56:39,685] {logging_mixin.py:109} INFO - [2021-09-29 09:56:39,685] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:56:39,697] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:56:39,709] {logging_mixin.py:109} INFO - [2021-09-29 09:56:39,708] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:56:39,717] {logging_mixin.py:109} INFO - [2021-09-29 09:56:39,717] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:56:39,804] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.124 seconds
+[2021-09-29 09:57:33,044] {processor.py:162} INFO - Started process (PID=81878) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:57:33,058] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:57:33,058] {logging_mixin.py:109} INFO - [2021-09-29 09:57:33,058] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:57:33,070] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:57:33,083] {logging_mixin.py:109} INFO - [2021-09-29 09:57:33,083] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:57:33,091] {logging_mixin.py:109} INFO - [2021-09-29 09:57:33,091] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:57:33,228] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.190 seconds
+[2021-09-29 09:58:12,266] {processor.py:162} INFO - Started process (PID=81923) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:58:12,275] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:58:12,278] {logging_mixin.py:109} INFO - [2021-09-29 09:58:12,277] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:58:12,297] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:58:12,310] {logging_mixin.py:109} INFO - [2021-09-29 09:58:12,310] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:58:12,319] {logging_mixin.py:109} INFO - [2021-09-29 09:58:12,318] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:58:12,411] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.155 seconds
+[2021-09-29 09:58:59,990] {processor.py:162} INFO - Started process (PID=82090) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:58:59,997] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:58:59,998] {logging_mixin.py:109} INFO - [2021-09-29 09:58:59,998] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:59:00,016] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:59:00,028] {logging_mixin.py:109} INFO - [2021-09-29 09:59:00,028] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:59:00,036] {logging_mixin.py:109} INFO - [2021-09-29 09:59:00,036] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:59:00,123] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.137 seconds
+[2021-09-29 09:59:41,197] {processor.py:162} INFO - Started process (PID=82244) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:59:41,210] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 09:59:41,211] {logging_mixin.py:109} INFO - [2021-09-29 09:59:41,211] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:59:41,229] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 09:59:41,243] {logging_mixin.py:109} INFO - [2021-09-29 09:59:41,243] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:59:41,251] {logging_mixin.py:109} INFO - [2021-09-29 09:59:41,251] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 09:59:41,338] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.145 seconds
+[2021-09-29 10:00:45,160] {processor.py:162} INFO - Started process (PID=82434) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:00:45,172] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:00:45,173] {logging_mixin.py:109} INFO - [2021-09-29 10:00:45,173] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:00:45,190] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:00:45,205] {logging_mixin.py:109} INFO - [2021-09-29 10:00:45,205] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:00:45,214] {logging_mixin.py:109} INFO - [2021-09-29 10:00:45,213] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:00:45,304] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.146 seconds
+[2021-09-29 10:01:49,616] {processor.py:162} INFO - Started process (PID=82610) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:01:49,620] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:01:49,621] {logging_mixin.py:109} INFO - [2021-09-29 10:01:49,621] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:01:49,636] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:01:49,649] {logging_mixin.py:109} INFO - [2021-09-29 10:01:49,649] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:01:49,657] {logging_mixin.py:109} INFO - [2021-09-29 10:01:49,657] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:01:49,749] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.144 seconds
+[2021-09-29 10:02:28,775] {processor.py:162} INFO - Started process (PID=82651) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:02:28,786] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:02:28,788] {logging_mixin.py:109} INFO - [2021-09-29 10:02:28,788] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:02:28,810] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:02:28,823] {logging_mixin.py:109} INFO - [2021-09-29 10:02:28,823] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:02:28,831] {logging_mixin.py:109} INFO - [2021-09-29 10:02:28,831] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:02:28,921] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.156 seconds
+[2021-09-29 10:03:18,026] {processor.py:162} INFO - Started process (PID=82821) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:03:18,051] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:03:18,053] {logging_mixin.py:109} INFO - [2021-09-29 10:03:18,052] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:03:18,077] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:03:18,090] {logging_mixin.py:109} INFO - [2021-09-29 10:03:18,090] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:03:18,099] {logging_mixin.py:109} INFO - [2021-09-29 10:03:18,099] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:03:18,189] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.174 seconds
+[2021-09-29 10:04:21,959] {processor.py:162} INFO - Started process (PID=82998) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:04:21,977] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:04:21,977] {logging_mixin.py:109} INFO - [2021-09-29 10:04:21,977] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:04:21,989] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:04:22,002] {logging_mixin.py:109} INFO - [2021-09-29 10:04:22,002] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:04:22,011] {logging_mixin.py:109} INFO - [2021-09-29 10:04:22,011] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:04:22,091] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.137 seconds
+[2021-09-29 10:05:04,934] {processor.py:162} INFO - Started process (PID=83160) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:05:04,942] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:05:04,944] {logging_mixin.py:109} INFO - [2021-09-29 10:05:04,944] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:05:04,967] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:05:04,980] {logging_mixin.py:109} INFO - [2021-09-29 10:05:04,980] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:05:04,988] {logging_mixin.py:109} INFO - [2021-09-29 10:05:04,988] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:05:05,077] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2021-09-29 10:05:43,656] {processor.py:162} INFO - Started process (PID=83193) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:05:43,664] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:05:43,666] {logging_mixin.py:109} INFO - [2021-09-29 10:05:43,666] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:05:43,686] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:05:43,698] {logging_mixin.py:109} INFO - [2021-09-29 10:05:43,698] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:05:43,707] {logging_mixin.py:109} INFO - [2021-09-29 10:05:43,707] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:05:43,797] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.151 seconds
+[2021-09-29 10:06:33,410] {processor.py:162} INFO - Started process (PID=83359) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:06:33,414] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:06:33,414] {logging_mixin.py:109} INFO - [2021-09-29 10:06:33,414] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:06:33,426] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:06:33,439] {logging_mixin.py:109} INFO - [2021-09-29 10:06:33,439] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:06:33,447] {logging_mixin.py:109} INFO - [2021-09-29 10:06:33,447] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:06:34,223] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.816 seconds
+[2021-09-29 10:07:35,685] {processor.py:162} INFO - Started process (PID=83536) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:07:35,698] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:07:35,699] {logging_mixin.py:109} INFO - [2021-09-29 10:07:35,699] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:07:35,721] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:07:35,734] {logging_mixin.py:109} INFO - [2021-09-29 10:07:35,733] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:07:35,742] {logging_mixin.py:109} INFO - [2021-09-29 10:07:35,742] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:07:36,174] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.495 seconds
+[2021-09-29 10:08:17,334] {processor.py:162} INFO - Started process (PID=83699) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:08:17,341] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:08:17,343] {logging_mixin.py:109} INFO - [2021-09-29 10:08:17,342] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:08:17,359] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:08:17,371] {logging_mixin.py:109} INFO - [2021-09-29 10:08:17,371] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:08:17,380] {logging_mixin.py:109} INFO - [2021-09-29 10:08:17,380] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:08:17,468] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.145 seconds
+[2021-09-29 10:08:56,432] {processor.py:162} INFO - Started process (PID=83734) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:08:56,436] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:08:56,439] {logging_mixin.py:109} INFO - [2021-09-29 10:08:56,438] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:08:56,455] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:08:56,468] {logging_mixin.py:109} INFO - [2021-09-29 10:08:56,468] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:08:56,477] {logging_mixin.py:109} INFO - [2021-09-29 10:08:56,477] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:08:56,565] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.143 seconds
+[2021-09-29 10:09:44,800] {processor.py:162} INFO - Started process (PID=83898) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:09:44,802] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:09:44,803] {logging_mixin.py:109} INFO - [2021-09-29 10:09:44,802] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:09:44,815] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:09:44,827] {logging_mixin.py:109} INFO - [2021-09-29 10:09:44,827] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:09:44,836] {logging_mixin.py:109} INFO - [2021-09-29 10:09:44,836] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:09:45,323] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.525 seconds
+[2021-09-29 10:12:25,634] {processor.py:162} INFO - Started process (PID=84460) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:12:25,723] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:12:25,723] {logging_mixin.py:109} INFO - [2021-09-29 10:12:25,723] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:12:25,735] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:12:25,748] {logging_mixin.py:109} INFO - [2021-09-29 10:12:25,748] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:12:25,756] {logging_mixin.py:109} INFO - [2021-09-29 10:12:25,756] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:12:25,930] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.308 seconds
+[2021-09-29 10:13:42,980] {processor.py:162} INFO - Started process (PID=84678) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:13:42,983] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:13:42,984] {logging_mixin.py:109} INFO - [2021-09-29 10:13:42,984] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:13:42,998] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:13:43,014] {logging_mixin.py:109} INFO - [2021-09-29 10:13:43,014] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:13:43,025] {logging_mixin.py:109} INFO - [2021-09-29 10:13:43,025] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:13:43,119] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.145 seconds
+[2021-09-29 10:14:45,277] {processor.py:162} INFO - Started process (PID=84854) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:14:45,281] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:14:45,283] {logging_mixin.py:109} INFO - [2021-09-29 10:14:45,283] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:14:45,302] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:14:45,314] {logging_mixin.py:109} INFO - [2021-09-29 10:14:45,314] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:14:45,323] {logging_mixin.py:109} INFO - [2021-09-29 10:14:45,323] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:14:45,411] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.144 seconds
+[2021-09-29 10:15:43,752] {processor.py:162} INFO - Started process (PID=85054) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:15:43,753] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:15:43,754] {logging_mixin.py:109} INFO - [2021-09-29 10:15:43,754] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:15:43,767] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:15:43,778] {logging_mixin.py:109} INFO - [2021-09-29 10:15:43,778] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:15:43,787] {logging_mixin.py:109} INFO - [2021-09-29 10:15:43,787] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:15:44,368] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.618 seconds
+[2021-09-29 10:17:08,973] {processor.py:162} INFO - Started process (PID=85244) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:17:08,978] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:17:08,980] {logging_mixin.py:109} INFO - [2021-09-29 10:17:08,980] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:17:08,998] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:17:09,011] {logging_mixin.py:109} INFO - [2021-09-29 10:17:09,010] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:17:09,019] {logging_mixin.py:109} INFO - [2021-09-29 10:17:09,019] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:17:09,664] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.701 seconds
+[2021-09-29 10:18:16,053] {processor.py:162} INFO - Started process (PID=85418) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:18:16,055] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:18:16,056] {logging_mixin.py:109} INFO - [2021-09-29 10:18:16,056] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:18:16,075] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:18:16,088] {logging_mixin.py:109} INFO - [2021-09-29 10:18:16,087] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:18:16,096] {logging_mixin.py:109} INFO - [2021-09-29 10:18:16,096] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:18:16,184] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.134 seconds
+[2021-09-29 10:18:56,387] {processor.py:162} INFO - Started process (PID=85454) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:18:56,392] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:18:56,393] {logging_mixin.py:109} INFO - [2021-09-29 10:18:56,393] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:18:56,410] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:18:56,422] {logging_mixin.py:109} INFO - [2021-09-29 10:18:56,422] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:18:56,431] {logging_mixin.py:109} INFO - [2021-09-29 10:18:56,431] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:18:56,516] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.139 seconds
+[2021-09-29 10:20:16,371] {processor.py:162} INFO - Started process (PID=85648) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:20:16,585] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:20:16,587] {logging_mixin.py:109} INFO - [2021-09-29 10:20:16,587] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:20:16,625] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:20:16,638] {logging_mixin.py:109} INFO - [2021-09-29 10:20:16,638] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:20:16,647] {logging_mixin.py:109} INFO - [2021-09-29 10:20:16,647] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:20:16,741] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.374 seconds
+[2021-09-29 10:21:10,470] {processor.py:162} INFO - Started process (PID=85824) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:21:10,481] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:21:10,482] {logging_mixin.py:109} INFO - [2021-09-29 10:21:10,482] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:21:10,498] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:21:10,510] {logging_mixin.py:109} INFO - [2021-09-29 10:21:10,510] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:21:10,518] {logging_mixin.py:109} INFO - [2021-09-29 10:21:10,518] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:21:10,640] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.180 seconds
+[2021-09-29 10:22:37,591] {processor.py:162} INFO - Started process (PID=86082) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:22:37,602] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:22:37,602] {logging_mixin.py:109} INFO - [2021-09-29 10:22:37,602] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:22:37,614] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:22:37,627] {logging_mixin.py:109} INFO - [2021-09-29 10:22:37,627] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:22:37,635] {logging_mixin.py:109} INFO - [2021-09-29 10:22:37,635] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:22:37,723] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.134 seconds
+[2021-09-29 10:23:52,518] {processor.py:162} INFO - Started process (PID=86289) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:23:52,597] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:23:52,600] {logging_mixin.py:109} INFO - [2021-09-29 10:23:52,600] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:23:52,664] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:23:52,701] {logging_mixin.py:109} INFO - [2021-09-29 10:23:52,701] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:23:52,711] {logging_mixin.py:109} INFO - [2021-09-29 10:23:52,711] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:23:52,877] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.370 seconds
+[2021-09-29 10:25:01,020] {processor.py:162} INFO - Started process (PID=86586) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:25:01,039] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:25:01,040] {logging_mixin.py:109} INFO - [2021-09-29 10:25:01,040] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:25:01,063] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:25:01,082] {logging_mixin.py:109} INFO - [2021-09-29 10:25:01,082] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:25:01,092] {logging_mixin.py:109} INFO - [2021-09-29 10:25:01,092] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:25:01,181] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.167 seconds
+[2021-09-29 10:25:57,714] {processor.py:162} INFO - Started process (PID=86941) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:25:58,003] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:25:58,006] {logging_mixin.py:109} INFO - [2021-09-29 10:25:58,005] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:25:58,041] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:25:58,055] {logging_mixin.py:109} INFO - [2021-09-29 10:25:58,055] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:25:58,064] {logging_mixin.py:109} INFO - [2021-09-29 10:25:58,064] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:26:00,026] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 2.322 seconds
+[2021-09-29 10:26:55,079] {processor.py:162} INFO - Started process (PID=87124) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:26:55,083] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:26:55,085] {logging_mixin.py:109} INFO - [2021-09-29 10:26:55,085] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:26:55,132] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:26:55,173] {logging_mixin.py:109} INFO - [2021-09-29 10:26:55,173] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:26:55,188] {logging_mixin.py:109} INFO - [2021-09-29 10:26:55,188] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:26:55,282] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.214 seconds
+[2021-09-29 10:27:38,216] {processor.py:162} INFO - Started process (PID=87277) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:27:38,326] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:27:38,327] {logging_mixin.py:109} INFO - [2021-09-29 10:27:38,327] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:27:38,376] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:27:38,418] {logging_mixin.py:109} INFO - [2021-09-29 10:27:38,418] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:27:38,433] {logging_mixin.py:109} INFO - [2021-09-29 10:27:38,433] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:27:38,522] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.314 seconds
+[2021-09-29 10:28:22,192] {processor.py:162} INFO - Started process (PID=87319) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:28:22,206] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:28:22,208] {logging_mixin.py:109} INFO - [2021-09-29 10:28:22,207] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:28:22,260] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:28:22,290] {logging_mixin.py:109} INFO - [2021-09-29 10:28:22,290] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:28:22,301] {logging_mixin.py:109} INFO - [2021-09-29 10:28:22,301] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:28:22,383] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.200 seconds
+[2021-09-29 10:29:17,627] {processor.py:162} INFO - Started process (PID=87588) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:29:17,639] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:29:17,640] {logging_mixin.py:109} INFO - [2021-09-29 10:29:17,640] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:29:17,670] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:29:17,683] {logging_mixin.py:109} INFO - [2021-09-29 10:29:17,683] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:29:17,693] {logging_mixin.py:109} INFO - [2021-09-29 10:29:17,692] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:29:18,374] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.758 seconds
+[2021-09-29 10:30:08,234] {processor.py:162} INFO - Started process (PID=87748) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:30:08,235] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:30:08,236] {logging_mixin.py:109} INFO - [2021-09-29 10:30:08,236] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:30:08,250] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:30:08,263] {logging_mixin.py:109} INFO - [2021-09-29 10:30:08,262] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:30:08,273] {logging_mixin.py:109} INFO - [2021-09-29 10:30:08,273] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:30:08,561] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.330 seconds
+[2021-09-29 10:31:03,469] {processor.py:162} INFO - Started process (PID=87927) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:31:03,473] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:31:03,475] {logging_mixin.py:109} INFO - [2021-09-29 10:31:03,475] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:31:03,499] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:31:03,513] {logging_mixin.py:109} INFO - [2021-09-29 10:31:03,513] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:31:03,522] {logging_mixin.py:109} INFO - [2021-09-29 10:31:03,522] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:31:03,608] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.148 seconds
+[2021-09-29 10:31:45,753] {processor.py:162} INFO - Started process (PID=87963) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:31:45,783] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:31:45,784] {logging_mixin.py:109} INFO - [2021-09-29 10:31:45,784] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:31:45,825] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:31:45,844] {logging_mixin.py:109} INFO - [2021-09-29 10:31:45,844] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:31:45,857] {logging_mixin.py:109} INFO - [2021-09-29 10:31:45,857] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:31:45,943] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.199 seconds
+[2021-09-29 10:32:57,204] {processor.py:162} INFO - Started process (PID=88164) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:32:57,218] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:32:57,220] {logging_mixin.py:109} INFO - [2021-09-29 10:32:57,220] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:32:57,258] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:32:57,274] {logging_mixin.py:109} INFO - [2021-09-29 10:32:57,274] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:32:57,283] {logging_mixin.py:109} INFO - [2021-09-29 10:32:57,282] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:32:57,690] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.495 seconds
+[2021-09-29 10:33:52,180] {processor.py:162} INFO - Started process (PID=88332) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:33:52,188] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:33:52,189] {logging_mixin.py:109} INFO - [2021-09-29 10:33:52,189] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:33:52,216] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:33:52,230] {logging_mixin.py:109} INFO - [2021-09-29 10:33:52,230] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:33:52,240] {logging_mixin.py:109} INFO - [2021-09-29 10:33:52,240] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:33:52,330] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.160 seconds
+[2021-09-29 10:34:55,001] {processor.py:162} INFO - Started process (PID=88509) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:34:55,093] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:34:55,095] {logging_mixin.py:109} INFO - [2021-09-29 10:34:55,094] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:34:55,132] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:34:55,162] {logging_mixin.py:109} INFO - [2021-09-29 10:34:55,161] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:34:55,174] {logging_mixin.py:109} INFO - [2021-09-29 10:34:55,174] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:34:55,339] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.350 seconds
+[2021-09-29 10:35:36,897] {processor.py:162} INFO - Started process (PID=88666) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:35:36,933] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:35:36,936] {logging_mixin.py:109} INFO - [2021-09-29 10:35:36,935] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:35:36,982] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:35:37,008] {logging_mixin.py:109} INFO - [2021-09-29 10:35:37,008] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:35:37,020] {logging_mixin.py:109} INFO - [2021-09-29 10:35:37,020] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:35:37,126] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.240 seconds
+[2021-09-29 10:36:41,328] {processor.py:162} INFO - Started process (PID=88842) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:36:41,336] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:36:41,337] {logging_mixin.py:109} INFO - [2021-09-29 10:36:41,337] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:36:41,375] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:36:41,390] {logging_mixin.py:109} INFO - [2021-09-29 10:36:41,390] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:36:41,400] {logging_mixin.py:109} INFO - [2021-09-29 10:36:41,400] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:36:41,487] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.168 seconds
+[2021-09-29 10:37:24,529] {processor.py:162} INFO - Started process (PID=88884) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:37:24,705] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:37:24,708] {logging_mixin.py:109} INFO - [2021-09-29 10:37:24,707] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:37:24,743] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:37:24,757] {logging_mixin.py:109} INFO - [2021-09-29 10:37:24,757] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:37:24,767] {logging_mixin.py:109} INFO - [2021-09-29 10:37:24,767] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:37:25,159] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.640 seconds
+[2021-09-29 10:38:20,366] {processor.py:162} INFO - Started process (PID=89069) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:38:20,381] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:38:20,383] {logging_mixin.py:109} INFO - [2021-09-29 10:38:20,383] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:38:20,437] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:38:20,459] {logging_mixin.py:109} INFO - [2021-09-29 10:38:20,459] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:38:20,473] {logging_mixin.py:109} INFO - [2021-09-29 10:38:20,473] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:38:20,628] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.271 seconds
+[2021-09-29 10:39:28,925] {processor.py:162} INFO - Started process (PID=89243) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:39:28,926] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:39:28,927] {logging_mixin.py:109} INFO - [2021-09-29 10:39:28,927] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:39:28,947] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:39:28,967] {logging_mixin.py:109} INFO - [2021-09-29 10:39:28,967] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:39:28,978] {logging_mixin.py:109} INFO - [2021-09-29 10:39:28,978] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:39:29,060] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.142 seconds
+[2021-09-29 10:40:31,626] {processor.py:162} INFO - Started process (PID=89419) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:40:31,631] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:40:31,632] {logging_mixin.py:109} INFO - [2021-09-29 10:40:31,632] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:40:31,646] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:40:31,659] {logging_mixin.py:109} INFO - [2021-09-29 10:40:31,659] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:40:31,667] {logging_mixin.py:109} INFO - [2021-09-29 10:40:31,667] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:40:31,755] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.132 seconds
+[2021-09-29 10:41:14,809] {processor.py:162} INFO - Started process (PID=89581) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:41:14,822] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:41:14,824] {logging_mixin.py:109} INFO - [2021-09-29 10:41:14,824] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:41:14,847] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:41:14,859] {logging_mixin.py:109} INFO - [2021-09-29 10:41:14,859] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:41:14,868] {logging_mixin.py:109} INFO - [2021-09-29 10:41:14,868] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:41:14,956] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.157 seconds
+[2021-09-29 10:42:06,572] {processor.py:162} INFO - Started process (PID=89621) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:42:06,579] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:42:06,580] {logging_mixin.py:109} INFO - [2021-09-29 10:42:06,580] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:42:06,607] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:42:06,620] {logging_mixin.py:109} INFO - [2021-09-29 10:42:06,620] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:42:06,629] {logging_mixin.py:109} INFO - [2021-09-29 10:42:06,629] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:42:07,303] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.735 seconds
+[2021-09-29 10:43:08,397] {processor.py:162} INFO - Started process (PID=89789) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:43:08,406] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:43:08,407] {logging_mixin.py:109} INFO - [2021-09-29 10:43:08,407] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:43:08,428] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:43:08,441] {logging_mixin.py:109} INFO - [2021-09-29 10:43:08,441] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:43:08,449] {logging_mixin.py:109} INFO - [2021-09-29 10:43:08,449] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:43:08,533] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.141 seconds
+[2021-09-29 10:43:59,087] {processor.py:162} INFO - Started process (PID=89948) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:43:59,100] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:43:59,101] {logging_mixin.py:109} INFO - [2021-09-29 10:43:59,100] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:43:59,123] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:43:59,137] {logging_mixin.py:109} INFO - [2021-09-29 10:43:59,137] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:43:59,145] {logging_mixin.py:109} INFO - [2021-09-29 10:43:59,145] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:43:59,237] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2021-09-29 10:44:45,138] {processor.py:162} INFO - Started process (PID=90107) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:44:45,143] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:44:45,144] {logging_mixin.py:109} INFO - [2021-09-29 10:44:45,144] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:44:45,161] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:44:45,174] {logging_mixin.py:109} INFO - [2021-09-29 10:44:45,173] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:44:45,182] {logging_mixin.py:109} INFO - [2021-09-29 10:44:45,182] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:44:45,274] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.147 seconds
+[2021-09-29 10:45:26,332] {processor.py:162} INFO - Started process (PID=90161) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:45:26,336] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:45:26,338] {logging_mixin.py:109} INFO - [2021-09-29 10:45:26,338] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:45:26,356] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:45:26,369] {logging_mixin.py:109} INFO - [2021-09-29 10:45:26,369] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:45:26,377] {logging_mixin.py:109} INFO - [2021-09-29 10:45:26,377] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:45:26,700] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.379 seconds
+[2021-09-29 10:46:12,987] {processor.py:162} INFO - Started process (PID=90323) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:46:12,997] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:46:12,997] {logging_mixin.py:109} INFO - [2021-09-29 10:46:12,997] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:46:13,009] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:46:13,021] {logging_mixin.py:109} INFO - [2021-09-29 10:46:13,021] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:46:13,030] {logging_mixin.py:109} INFO - [2021-09-29 10:46:13,030] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:46:13,122] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.137 seconds
+[2021-09-29 10:48:06,226] {processor.py:162} INFO - Started process (PID=90810) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:48:06,245] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:48:06,246] {logging_mixin.py:109} INFO - [2021-09-29 10:48:06,246] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:48:06,263] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:48:06,278] {logging_mixin.py:109} INFO - [2021-09-29 10:48:06,278] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:48:06,286] {logging_mixin.py:109} INFO - [2021-09-29 10:48:06,286] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:48:07,175] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.951 seconds
+[2021-09-29 10:48:59,464] {processor.py:162} INFO - Started process (PID=90970) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:48:59,482] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:48:59,484] {logging_mixin.py:109} INFO - [2021-09-29 10:48:59,484] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:48:59,511] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:48:59,523] {logging_mixin.py:109} INFO - [2021-09-29 10:48:59,523] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:48:59,532] {logging_mixin.py:109} INFO - [2021-09-29 10:48:59,532] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:48:59,618] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.164 seconds
+[2021-09-29 10:49:42,076] {processor.py:162} INFO - Started process (PID=91130) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:49:42,092] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:49:42,094] {logging_mixin.py:109} INFO - [2021-09-29 10:49:42,094] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:49:42,119] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:49:42,131] {logging_mixin.py:109} INFO - [2021-09-29 10:49:42,131] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:49:42,140] {logging_mixin.py:109} INFO - [2021-09-29 10:49:42,140] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:49:42,553] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.487 seconds
+[2021-09-29 10:50:22,890] {processor.py:162} INFO - Started process (PID=91170) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:50:22,903] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:50:22,905] {logging_mixin.py:109} INFO - [2021-09-29 10:50:22,904] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:50:22,925] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:50:22,938] {logging_mixin.py:109} INFO - [2021-09-29 10:50:22,938] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:50:22,947] {logging_mixin.py:109} INFO - [2021-09-29 10:50:22,947] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:50:23,034] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2021-09-29 10:51:11,630] {processor.py:162} INFO - Started process (PID=91330) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:51:11,640] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:51:11,641] {logging_mixin.py:109} INFO - [2021-09-29 10:51:11,641] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:51:11,664] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:51:11,678] {logging_mixin.py:109} INFO - [2021-09-29 10:51:11,677] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:51:11,686] {logging_mixin.py:109} INFO - [2021-09-29 10:51:11,686] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:51:11,771] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.144 seconds
+[2021-09-29 10:51:56,889] {processor.py:162} INFO - Started process (PID=91483) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:51:56,914] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:51:56,915] {logging_mixin.py:109} INFO - [2021-09-29 10:51:56,915] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:51:56,945] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:51:56,958] {logging_mixin.py:109} INFO - [2021-09-29 10:51:56,958] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:51:56,967] {logging_mixin.py:109} INFO - [2021-09-29 10:51:56,966] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:51:57,048] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.163 seconds
+[2021-09-29 10:52:37,157] {processor.py:162} INFO - Started process (PID=91527) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:52:37,165] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:52:37,166] {logging_mixin.py:109} INFO - [2021-09-29 10:52:37,166] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:52:37,178] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:52:37,190] {logging_mixin.py:109} INFO - [2021-09-29 10:52:37,190] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:52:37,199] {logging_mixin.py:109} INFO - [2021-09-29 10:52:37,199] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:52:37,289] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.136 seconds
+[2021-09-29 10:53:25,619] {processor.py:162} INFO - Started process (PID=91686) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:53:25,621] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:53:25,622] {logging_mixin.py:109} INFO - [2021-09-29 10:53:25,621] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:53:25,634] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:53:25,646] {logging_mixin.py:109} INFO - [2021-09-29 10:53:25,646] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:53:25,655] {logging_mixin.py:109} INFO - [2021-09-29 10:53:25,655] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:53:25,744] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.128 seconds
+[2021-09-29 10:54:29,288] {processor.py:162} INFO - Started process (PID=91857) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:54:29,295] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:54:29,296] {logging_mixin.py:109} INFO - [2021-09-29 10:54:29,296] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:54:29,308] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:54:29,321] {logging_mixin.py:109} INFO - [2021-09-29 10:54:29,320] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:54:29,329] {logging_mixin.py:109} INFO - [2021-09-29 10:54:29,329] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:54:30,699] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.414 seconds
+[2021-09-29 10:55:30,604] {processor.py:162} INFO - Started process (PID=92022) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:55:30,610] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:55:30,611] {logging_mixin.py:109} INFO - [2021-09-29 10:55:30,611] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:55:30,622] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:55:30,635] {logging_mixin.py:109} INFO - [2021-09-29 10:55:30,635] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:55:30,643] {logging_mixin.py:109} INFO - [2021-09-29 10:55:30,643] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:55:30,725] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.124 seconds
+[2021-09-29 10:56:22,438] {processor.py:162} INFO - Started process (PID=92191) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:56:22,449] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:56:22,450] {logging_mixin.py:109} INFO - [2021-09-29 10:56:22,449] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:56:22,462] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:56:22,474] {logging_mixin.py:109} INFO - [2021-09-29 10:56:22,474] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:56:22,483] {logging_mixin.py:109} INFO - [2021-09-29 10:56:22,483] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:56:22,565] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.132 seconds
+[2021-09-29 10:57:22,567] {processor.py:162} INFO - Started process (PID=92363) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:57:22,580] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:57:22,581] {logging_mixin.py:109} INFO - [2021-09-29 10:57:22,581] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:57:22,597] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:57:22,609] {logging_mixin.py:109} INFO - [2021-09-29 10:57:22,609] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:57:22,617] {logging_mixin.py:109} INFO - [2021-09-29 10:57:22,617] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:57:22,701] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.138 seconds
+[2021-09-29 10:58:23,825] {processor.py:162} INFO - Started process (PID=92543) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:58:23,833] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:58:23,835] {logging_mixin.py:109} INFO - [2021-09-29 10:58:23,834] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:58:23,854] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:58:23,867] {logging_mixin.py:109} INFO - [2021-09-29 10:58:23,867] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:58:23,875] {logging_mixin.py:109} INFO - [2021-09-29 10:58:23,875] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:58:23,958] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.143 seconds
+[2021-09-29 10:59:02,519] {processor.py:162} INFO - Started process (PID=92584) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:59:02,529] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:59:02,531] {logging_mixin.py:109} INFO - [2021-09-29 10:59:02,530] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:59:02,552] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:59:02,565] {logging_mixin.py:109} INFO - [2021-09-29 10:59:02,564] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:59:02,573] {logging_mixin.py:109} INFO - [2021-09-29 10:59:02,573] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:59:02,664] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.155 seconds
+[2021-09-29 10:59:49,485] {processor.py:162} INFO - Started process (PID=92738) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:59:49,488] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 10:59:49,489] {logging_mixin.py:109} INFO - [2021-09-29 10:59:49,489] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:59:49,504] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 10:59:49,516] {logging_mixin.py:109} INFO - [2021-09-29 10:59:49,516] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:59:49,525] {logging_mixin.py:109} INFO - [2021-09-29 10:59:49,525] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 10:59:49,606] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.124 seconds
+[2021-09-29 11:00:29,852] {processor.py:162} INFO - Started process (PID=92895) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:00:29,870] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:00:29,873] {logging_mixin.py:109} INFO - [2021-09-29 11:00:29,872] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:00:29,895] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:00:29,908] {logging_mixin.py:109} INFO - [2021-09-29 11:00:29,907] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:00:29,916] {logging_mixin.py:109} INFO - [2021-09-29 11:00:29,916] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:00:29,999] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.157 seconds
+[2021-09-29 11:01:09,653] {processor.py:162} INFO - Started process (PID=92947) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:01:09,655] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:01:09,656] {logging_mixin.py:109} INFO - [2021-09-29 11:01:09,656] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:01:09,676] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:01:09,690] {logging_mixin.py:109} INFO - [2021-09-29 11:01:09,690] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:01:09,699] {logging_mixin.py:109} INFO - [2021-09-29 11:01:09,699] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:01:10,097] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.447 seconds
+[2021-09-29 11:01:55,932] {processor.py:162} INFO - Started process (PID=93108) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:01:55,940] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:01:55,940] {logging_mixin.py:109} INFO - [2021-09-29 11:01:55,940] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:01:55,952] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:01:55,964] {logging_mixin.py:109} INFO - [2021-09-29 11:01:55,964] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:01:55,973] {logging_mixin.py:109} INFO - [2021-09-29 11:01:55,972] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:01:56,054] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.125 seconds
+[2021-09-29 11:02:34,182] {processor.py:162} INFO - Started process (PID=93263) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:02:34,191] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:02:34,192] {logging_mixin.py:109} INFO - [2021-09-29 11:02:34,192] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:02:34,215] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:02:34,229] {logging_mixin.py:109} INFO - [2021-09-29 11:02:34,229] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:02:34,238] {logging_mixin.py:109} INFO - [2021-09-29 11:02:34,238] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:02:34,322] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.144 seconds
+[2021-09-29 11:03:13,213] {processor.py:162} INFO - Started process (PID=93303) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:03:13,228] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:03:13,230] {logging_mixin.py:109} INFO - [2021-09-29 11:03:13,230] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:03:13,263] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:03:13,276] {logging_mixin.py:109} INFO - [2021-09-29 11:03:13,276] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:03:13,285] {logging_mixin.py:109} INFO - [2021-09-29 11:03:13,285] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:03:13,359] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.150 seconds
+[2021-09-29 11:03:59,928] {processor.py:162} INFO - Started process (PID=93456) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:03:59,937] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:03:59,938] {logging_mixin.py:109} INFO - [2021-09-29 11:03:59,938] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:03:59,950] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:03:59,962] {logging_mixin.py:109} INFO - [2021-09-29 11:03:59,962] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:03:59,971] {logging_mixin.py:109} INFO - [2021-09-29 11:03:59,971] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:04:00,049] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.124 seconds
+[2021-09-29 11:04:41,945] {processor.py:162} INFO - Started process (PID=93608) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:04:41,952] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:04:41,953] {logging_mixin.py:109} INFO - [2021-09-29 11:04:41,953] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:04:41,971] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:04:41,983] {logging_mixin.py:109} INFO - [2021-09-29 11:04:41,983] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:04:41,992] {logging_mixin.py:109} INFO - [2021-09-29 11:04:41,992] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:04:42,078] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.137 seconds
+[2021-09-29 11:05:21,910] {processor.py:162} INFO - Started process (PID=93650) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:05:21,928] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:05:21,930] {logging_mixin.py:109} INFO - [2021-09-29 11:05:21,930] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:05:21,948] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:05:21,961] {logging_mixin.py:109} INFO - [2021-09-29 11:05:21,961] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:05:21,970] {logging_mixin.py:109} INFO - [2021-09-29 11:05:21,969] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:05:22,048] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.148 seconds
+[2021-09-29 11:06:10,121] {processor.py:162} INFO - Started process (PID=93811) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:06:10,135] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-09-29 11:06:10,138] {logging_mixin.py:109} INFO - [2021-09-29 11:06:10,137] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:06:10,162] {processor.py:623} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-09-29 11:06:10,175] {logging_mixin.py:109} INFO - [2021-09-29 11:06:10,175] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:06:10,184] {logging_mixin.py:109} INFO - [2021-09-29 11:06:10,184] {dag.py:2287} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-09-29 11:06:10,269] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.158 seconds

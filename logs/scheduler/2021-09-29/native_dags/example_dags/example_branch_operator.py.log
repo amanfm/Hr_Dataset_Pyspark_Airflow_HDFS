@@ -1,0 +1,714 @@
+[2021-09-29 09:21:02,560] {processor.py:162} INFO - Started process (PID=74534) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:21:02,562] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:21:02,563] {logging_mixin.py:109} INFO - [2021-09-29 09:21:02,563] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:21:02,586] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:21:02,959] {logging_mixin.py:109} INFO - [2021-09-29 09:21:02,959] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:21:02,975] {logging_mixin.py:109} INFO - [2021-09-29 09:21:02,975] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:21:03,142] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.586 seconds
+[2021-09-29 09:21:52,158] {processor.py:162} INFO - Started process (PID=75184) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:21:52,160] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:21:52,162] {logging_mixin.py:109} INFO - [2021-09-29 09:21:52,161] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:21:52,178] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:21:52,192] {logging_mixin.py:109} INFO - [2021-09-29 09:21:52,192] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:21:52,204] {logging_mixin.py:109} INFO - [2021-09-29 09:21:52,204] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:21:52,342] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.192 seconds
+[2021-09-29 09:22:35,733] {processor.py:162} INFO - Started process (PID=75356) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:22:35,735] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:22:35,736] {logging_mixin.py:109} INFO - [2021-09-29 09:22:35,736] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:22:35,751] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:22:35,765] {logging_mixin.py:109} INFO - [2021-09-29 09:22:35,765] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:22:35,777] {logging_mixin.py:109} INFO - [2021-09-29 09:22:35,776] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:22:35,893] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.168 seconds
+[2021-09-29 09:23:18,569] {processor.py:162} INFO - Started process (PID=75522) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:23:18,571] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:23:18,572] {logging_mixin.py:109} INFO - [2021-09-29 09:23:18,572] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:23:18,588] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:23:18,601] {logging_mixin.py:109} INFO - [2021-09-29 09:23:18,601] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:23:18,613] {logging_mixin.py:109} INFO - [2021-09-29 09:23:18,613] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:23:18,714] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.155 seconds
+[2021-09-29 09:24:00,829] {processor.py:162} INFO - Started process (PID=75729) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:24:00,831] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:24:00,832] {logging_mixin.py:109} INFO - [2021-09-29 09:24:00,832] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:24:00,852] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:24:01,003] {logging_mixin.py:109} INFO - [2021-09-29 09:24:01,003] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:24:01,036] {logging_mixin.py:109} INFO - [2021-09-29 09:24:01,036] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:24:01,131] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.306 seconds
+[2021-09-29 09:24:48,374] {processor.py:162} INFO - Started process (PID=75902) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:24:48,376] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:24:48,377] {logging_mixin.py:109} INFO - [2021-09-29 09:24:48,377] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:24:48,393] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:24:48,406] {logging_mixin.py:109} INFO - [2021-09-29 09:24:48,406] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:24:48,418] {logging_mixin.py:109} INFO - [2021-09-29 09:24:48,418] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:24:48,534] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.169 seconds
+[2021-09-29 09:25:32,041] {processor.py:162} INFO - Started process (PID=76074) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:25:32,043] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:25:32,044] {logging_mixin.py:109} INFO - [2021-09-29 09:25:32,044] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:25:32,060] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:25:32,074] {logging_mixin.py:109} INFO - [2021-09-29 09:25:32,074] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:25:32,086] {logging_mixin.py:109} INFO - [2021-09-29 09:25:32,086] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:25:32,191] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.159 seconds
+[2021-09-29 09:26:16,552] {processor.py:162} INFO - Started process (PID=76245) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:26:16,553] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:26:16,554] {logging_mixin.py:109} INFO - [2021-09-29 09:26:16,554] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:26:16,568] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:26:16,581] {logging_mixin.py:109} INFO - [2021-09-29 09:26:16,581] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:26:16,593] {logging_mixin.py:109} INFO - [2021-09-29 09:26:16,593] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:26:16,705] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.157 seconds
+[2021-09-29 09:26:59,029] {processor.py:162} INFO - Started process (PID=76411) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:26:59,038] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:26:59,039] {logging_mixin.py:109} INFO - [2021-09-29 09:26:59,039] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:26:59,053] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:26:59,066] {logging_mixin.py:109} INFO - [2021-09-29 09:26:59,066] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:26:59,078] {logging_mixin.py:109} INFO - [2021-09-29 09:26:59,078] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:26:59,164] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.143 seconds
+[2021-09-29 09:27:50,096] {processor.py:162} INFO - Started process (PID=76583) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:27:50,098] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:27:50,099] {logging_mixin.py:109} INFO - [2021-09-29 09:27:50,099] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:27:50,114] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:27:50,128] {logging_mixin.py:109} INFO - [2021-09-29 09:27:50,128] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:27:50,139] {logging_mixin.py:109} INFO - [2021-09-29 09:27:50,139] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:27:50,262] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.175 seconds
+[2021-09-29 09:28:34,388] {processor.py:162} INFO - Started process (PID=76749) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:28:34,390] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:28:34,391] {logging_mixin.py:109} INFO - [2021-09-29 09:28:34,390] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:28:34,404] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:28:34,418] {logging_mixin.py:109} INFO - [2021-09-29 09:28:34,417] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:28:34,429] {logging_mixin.py:109} INFO - [2021-09-29 09:28:34,429] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:28:34,943] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.558 seconds
+[2021-09-29 09:29:18,078] {processor.py:162} INFO - Started process (PID=76927) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:29:18,091] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:29:18,091] {logging_mixin.py:109} INFO - [2021-09-29 09:29:18,091] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:29:18,104] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:29:18,118] {logging_mixin.py:109} INFO - [2021-09-29 09:29:18,118] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:29:18,130] {logging_mixin.py:109} INFO - [2021-09-29 09:29:18,130] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:29:18,249] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.178 seconds
+[2021-09-29 09:30:01,202] {processor.py:162} INFO - Started process (PID=77087) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:30:01,205] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:30:01,206] {logging_mixin.py:109} INFO - [2021-09-29 09:30:01,206] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:30:01,222] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:30:01,235] {logging_mixin.py:109} INFO - [2021-09-29 09:30:01,235] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:30:01,254] {logging_mixin.py:109} INFO - [2021-09-29 09:30:01,254] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:30:01,411] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.217 seconds
+[2021-09-29 09:30:52,153] {processor.py:162} INFO - Started process (PID=77262) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:30:52,155] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:30:52,155] {logging_mixin.py:109} INFO - [2021-09-29 09:30:52,155] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:30:52,169] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:30:52,289] {logging_mixin.py:109} INFO - [2021-09-29 09:30:52,288] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:30:52,326] {logging_mixin.py:109} INFO - [2021-09-29 09:30:52,326] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:30:52,441] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.292 seconds
+[2021-09-29 09:31:41,807] {processor.py:162} INFO - Started process (PID=77436) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:31:41,808] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:31:41,809] {logging_mixin.py:109} INFO - [2021-09-29 09:31:41,809] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:31:41,822] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:31:41,961] {logging_mixin.py:109} INFO - [2021-09-29 09:31:41,961] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:31:41,977] {logging_mixin.py:109} INFO - [2021-09-29 09:31:41,977] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:31:42,081] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.276 seconds
+[2021-09-29 09:32:25,352] {processor.py:162} INFO - Started process (PID=77599) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:32:25,353] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:32:25,354] {logging_mixin.py:109} INFO - [2021-09-29 09:32:25,354] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:32:25,369] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:32:25,383] {logging_mixin.py:109} INFO - [2021-09-29 09:32:25,383] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:32:25,395] {logging_mixin.py:109} INFO - [2021-09-29 09:32:25,395] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:32:25,501] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.155 seconds
+[2021-09-29 09:33:08,060] {processor.py:162} INFO - Started process (PID=77764) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:33:08,062] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:33:08,063] {logging_mixin.py:109} INFO - [2021-09-29 09:33:08,063] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:33:08,078] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:33:08,092] {logging_mixin.py:109} INFO - [2021-09-29 09:33:08,092] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:33:08,104] {logging_mixin.py:109} INFO - [2021-09-29 09:33:08,104] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:33:08,211] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.160 seconds
+[2021-09-29 09:34:03,041] {processor.py:162} INFO - Started process (PID=77939) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:34:03,045] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:34:03,047] {logging_mixin.py:109} INFO - [2021-09-29 09:34:03,047] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:34:03,066] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:34:03,080] {logging_mixin.py:109} INFO - [2021-09-29 09:34:03,079] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:34:03,091] {logging_mixin.py:109} INFO - [2021-09-29 09:34:03,091] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:34:03,185] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.156 seconds
+[2021-09-29 09:34:56,127] {processor.py:162} INFO - Started process (PID=78098) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:34:56,130] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:34:56,131] {logging_mixin.py:109} INFO - [2021-09-29 09:34:56,131] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:34:56,147] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:34:56,161] {logging_mixin.py:109} INFO - [2021-09-29 09:34:56,161] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:34:56,173] {logging_mixin.py:109} INFO - [2021-09-29 09:34:56,173] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:34:56,255] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.139 seconds
+[2021-09-29 09:36:02,023] {processor.py:162} INFO - Started process (PID=78281) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:36:02,031] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:36:02,031] {logging_mixin.py:109} INFO - [2021-09-29 09:36:02,031] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:36:02,046] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:36:02,061] {logging_mixin.py:109} INFO - [2021-09-29 09:36:02,061] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:36:02,073] {logging_mixin.py:109} INFO - [2021-09-29 09:36:02,073] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:36:02,160] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.141 seconds
+[2021-09-29 09:37:02,241] {processor.py:162} INFO - Started process (PID=78452) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:37:02,253] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:37:02,254] {logging_mixin.py:109} INFO - [2021-09-29 09:37:02,254] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:37:02,276] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:37:02,289] {logging_mixin.py:109} INFO - [2021-09-29 09:37:02,289] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:37:02,301] {logging_mixin.py:109} INFO - [2021-09-29 09:37:02,301] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:37:02,390] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.160 seconds
+[2021-09-29 09:38:10,700] {processor.py:162} INFO - Started process (PID=78674) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:38:10,707] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:38:10,707] {logging_mixin.py:109} INFO - [2021-09-29 09:38:10,707] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:38:10,720] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:38:10,733] {logging_mixin.py:109} INFO - [2021-09-29 09:38:10,733] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:38:10,745] {logging_mixin.py:109} INFO - [2021-09-29 09:38:10,745] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:38:10,836] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.139 seconds
+[2021-09-29 09:39:22,103] {processor.py:162} INFO - Started process (PID=78861) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:39:22,116] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:39:22,116] {logging_mixin.py:109} INFO - [2021-09-29 09:39:22,116] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:39:22,129] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:39:22,143] {logging_mixin.py:109} INFO - [2021-09-29 09:39:22,143] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:39:22,155] {logging_mixin.py:109} INFO - [2021-09-29 09:39:22,155] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:39:22,239] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.138 seconds
+[2021-09-29 09:40:25,414] {processor.py:162} INFO - Started process (PID=79043) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:40:25,424] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:40:25,425] {logging_mixin.py:109} INFO - [2021-09-29 09:40:25,425] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:40:25,438] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:40:25,453] {logging_mixin.py:109} INFO - [2021-09-29 09:40:25,453] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:40:25,466] {logging_mixin.py:109} INFO - [2021-09-29 09:40:25,465] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:40:25,558] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.147 seconds
+[2021-09-29 09:41:33,972] {processor.py:162} INFO - Started process (PID=79275) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:41:33,986] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:41:33,987] {logging_mixin.py:109} INFO - [2021-09-29 09:41:33,987] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:41:34,003] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:41:34,018] {logging_mixin.py:109} INFO - [2021-09-29 09:41:34,018] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:41:34,030] {logging_mixin.py:109} INFO - [2021-09-29 09:41:34,030] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:41:34,441] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.475 seconds
+[2021-09-29 09:42:41,621] {processor.py:162} INFO - Started process (PID=79457) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:42:41,626] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:42:41,627] {logging_mixin.py:109} INFO - [2021-09-29 09:42:41,627] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:42:41,649] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:42:41,663] {logging_mixin.py:109} INFO - [2021-09-29 09:42:41,663] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:42:41,675] {logging_mixin.py:109} INFO - [2021-09-29 09:42:41,675] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:42:41,762] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.145 seconds
+[2021-09-29 09:43:47,454] {processor.py:162} INFO - Started process (PID=79652) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:43:47,456] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:43:47,456] {logging_mixin.py:109} INFO - [2021-09-29 09:43:47,456] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:43:47,469] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:43:47,482] {logging_mixin.py:109} INFO - [2021-09-29 09:43:47,482] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:43:47,494] {logging_mixin.py:109} INFO - [2021-09-29 09:43:47,494] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:43:47,579] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.128 seconds
+[2021-09-29 09:45:07,843] {processor.py:162} INFO - Started process (PID=79882) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:45:07,857] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:45:07,857] {logging_mixin.py:109} INFO - [2021-09-29 09:45:07,857] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:45:07,880] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:45:07,896] {logging_mixin.py:109} INFO - [2021-09-29 09:45:07,896] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:45:07,908] {logging_mixin.py:109} INFO - [2021-09-29 09:45:07,908] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:45:08,081] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.241 seconds
+[2021-09-29 09:46:19,239] {processor.py:162} INFO - Started process (PID=80055) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:46:19,247] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:46:19,249] {logging_mixin.py:109} INFO - [2021-09-29 09:46:19,248] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:46:19,268] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:46:19,282] {logging_mixin.py:109} INFO - [2021-09-29 09:46:19,282] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:46:19,293] {logging_mixin.py:109} INFO - [2021-09-29 09:46:19,293] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:46:19,708] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.479 seconds
+[2021-09-29 09:47:19,081] {processor.py:162} INFO - Started process (PID=80221) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:47:19,085] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:47:19,085] {logging_mixin.py:109} INFO - [2021-09-29 09:47:19,085] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:47:19,099] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:47:19,113] {logging_mixin.py:109} INFO - [2021-09-29 09:47:19,113] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:47:19,124] {logging_mixin.py:109} INFO - [2021-09-29 09:47:19,124] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:47:19,213] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.135 seconds
+[2021-09-29 09:48:14,796] {processor.py:162} INFO - Started process (PID=80404) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:48:14,798] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:48:14,799] {logging_mixin.py:109} INFO - [2021-09-29 09:48:14,798] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:48:14,812] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:48:14,827] {logging_mixin.py:109} INFO - [2021-09-29 09:48:14,827] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:48:14,839] {logging_mixin.py:109} INFO - [2021-09-29 09:48:14,839] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:48:14,927] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.137 seconds
+[2021-09-29 09:49:14,898] {processor.py:162} INFO - Started process (PID=80476) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:49:14,900] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:49:14,901] {logging_mixin.py:109} INFO - [2021-09-29 09:49:14,901] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:49:14,919] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:49:14,934] {logging_mixin.py:109} INFO - [2021-09-29 09:49:14,934] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:49:14,946] {logging_mixin.py:109} INFO - [2021-09-29 09:49:14,946] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:49:15,766] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.876 seconds
+[2021-09-29 09:50:22,533] {processor.py:162} INFO - Started process (PID=80654) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:50:22,537] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:50:22,538] {logging_mixin.py:109} INFO - [2021-09-29 09:50:22,538] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:50:22,555] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:50:22,569] {logging_mixin.py:109} INFO - [2021-09-29 09:50:22,569] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:50:22,580] {logging_mixin.py:109} INFO - [2021-09-29 09:50:22,580] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:50:22,664] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.142 seconds
+[2021-09-29 09:51:09,291] {processor.py:162} INFO - Started process (PID=80816) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:51:09,300] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:51:09,303] {logging_mixin.py:109} INFO - [2021-09-29 09:51:09,302] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:51:09,326] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:51:09,339] {logging_mixin.py:109} INFO - [2021-09-29 09:51:09,339] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:51:09,351] {logging_mixin.py:109} INFO - [2021-09-29 09:51:09,351] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:51:09,435] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.154 seconds
+[2021-09-29 09:51:59,567] {processor.py:162} INFO - Started process (PID=80979) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:51:59,569] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:51:59,569] {logging_mixin.py:109} INFO - [2021-09-29 09:51:59,569] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:51:59,583] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:51:59,597] {logging_mixin.py:109} INFO - [2021-09-29 09:51:59,597] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:51:59,608] {logging_mixin.py:109} INFO - [2021-09-29 09:51:59,608] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:51:59,694] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.131 seconds
+[2021-09-29 09:53:01,093] {processor.py:162} INFO - Started process (PID=81154) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:53:01,100] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:53:01,101] {logging_mixin.py:109} INFO - [2021-09-29 09:53:01,101] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:53:01,119] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:53:01,132] {logging_mixin.py:109} INFO - [2021-09-29 09:53:01,132] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:53:01,144] {logging_mixin.py:109} INFO - [2021-09-29 09:53:01,143] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:53:01,232] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.149 seconds
+[2021-09-29 09:54:10,254] {processor.py:162} INFO - Started process (PID=81340) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:54:10,258] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:54:10,260] {logging_mixin.py:109} INFO - [2021-09-29 09:54:10,259] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:54:10,277] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:54:10,291] {logging_mixin.py:109} INFO - [2021-09-29 09:54:10,290] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:54:10,302] {logging_mixin.py:109} INFO - [2021-09-29 09:54:10,302] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:54:10,650] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.406 seconds
+[2021-09-29 09:55:05,521] {processor.py:162} INFO - Started process (PID=81519) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:55:05,522] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:55:05,523] {logging_mixin.py:109} INFO - [2021-09-29 09:55:05,523] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:55:05,536] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:55:05,549] {logging_mixin.py:109} INFO - [2021-09-29 09:55:05,549] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:55:05,561] {logging_mixin.py:109} INFO - [2021-09-29 09:55:05,561] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:55:06,210] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.692 seconds
+[2021-09-29 09:56:19,290] {processor.py:162} INFO - Started process (PID=81698) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:56:19,291] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:56:19,292] {logging_mixin.py:109} INFO - [2021-09-29 09:56:19,292] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:56:19,305] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:56:19,319] {logging_mixin.py:109} INFO - [2021-09-29 09:56:19,318] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:56:19,330] {logging_mixin.py:109} INFO - [2021-09-29 09:56:19,330] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:56:19,416] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.129 seconds
+[2021-09-29 09:57:06,711] {processor.py:162} INFO - Started process (PID=81740) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:57:06,712] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:57:06,713] {logging_mixin.py:109} INFO - [2021-09-29 09:57:06,713] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:57:06,726] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:57:06,740] {logging_mixin.py:109} INFO - [2021-09-29 09:57:06,740] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:57:06,751] {logging_mixin.py:109} INFO - [2021-09-29 09:57:06,751] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:57:07,147] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.439 seconds
+[2021-09-29 09:57:59,729] {processor.py:162} INFO - Started process (PID=81906) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:57:59,733] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:57:59,734] {logging_mixin.py:109} INFO - [2021-09-29 09:57:59,734] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:57:59,756] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:57:59,770] {logging_mixin.py:109} INFO - [2021-09-29 09:57:59,770] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:57:59,782] {logging_mixin.py:109} INFO - [2021-09-29 09:57:59,782] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:57:59,873] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.147 seconds
+[2021-09-29 09:59:02,515] {processor.py:162} INFO - Started process (PID=82100) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:59:02,526] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 09:59:02,528] {logging_mixin.py:109} INFO - [2021-09-29 09:59:02,527] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:59:02,548] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 09:59:02,562] {logging_mixin.py:109} INFO - [2021-09-29 09:59:02,562] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 09:59:02,574] {logging_mixin.py:109} INFO - [2021-09-29 09:59:02,574] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 09:59:02,658] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.153 seconds
+[2021-09-29 10:00:05,161] {processor.py:162} INFO - Started process (PID=82283) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:00:05,173] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:00:05,174] {logging_mixin.py:109} INFO - [2021-09-29 10:00:05,174] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:00:05,201] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:00:05,215] {logging_mixin.py:109} INFO - [2021-09-29 10:00:05,215] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:00:05,227] {logging_mixin.py:109} INFO - [2021-09-29 10:00:05,227] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:00:05,354] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.197 seconds
+[2021-09-29 10:00:53,883] {processor.py:162} INFO - Started process (PID=82443) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:00:53,891] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:00:53,893] {logging_mixin.py:109} INFO - [2021-09-29 10:00:53,893] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:00:53,915] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:00:53,929] {logging_mixin.py:109} INFO - [2021-09-29 10:00:53,929] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:00:53,941] {logging_mixin.py:109} INFO - [2021-09-29 10:00:53,941] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:00:54,361] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.488 seconds
+[2021-09-29 10:01:59,082] {processor.py:162} INFO - Started process (PID=82620) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:01:59,086] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:01:59,088] {logging_mixin.py:109} INFO - [2021-09-29 10:01:59,088] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:01:59,106] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:01:59,120] {logging_mixin.py:109} INFO - [2021-09-29 10:01:59,120] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:01:59,132] {logging_mixin.py:109} INFO - [2021-09-29 10:01:59,132] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:01:59,215] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.143 seconds
+[2021-09-29 10:02:57,857] {processor.py:162} INFO - Started process (PID=82799) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:02:57,858] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:02:57,859] {logging_mixin.py:109} INFO - [2021-09-29 10:02:57,859] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:02:57,872] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:02:57,886] {logging_mixin.py:109} INFO - [2021-09-29 10:02:57,886] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:02:57,897] {logging_mixin.py:109} INFO - [2021-09-29 10:02:57,897] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:02:57,983] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.129 seconds
+[2021-09-29 10:04:06,865] {processor.py:162} INFO - Started process (PID=82986) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:04:06,870] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:04:06,872] {logging_mixin.py:109} INFO - [2021-09-29 10:04:06,871] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:04:06,890] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:04:06,904] {logging_mixin.py:109} INFO - [2021-09-29 10:04:06,904] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:04:06,915] {logging_mixin.py:109} INFO - [2021-09-29 10:04:06,915] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:04:07,327] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.472 seconds
+[2021-09-29 10:05:12,927] {processor.py:162} INFO - Started process (PID=83167) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:05:12,931] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:05:12,933] {logging_mixin.py:109} INFO - [2021-09-29 10:05:12,933] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:05:12,952] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:05:12,966] {logging_mixin.py:109} INFO - [2021-09-29 10:05:12,966] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:05:12,978] {logging_mixin.py:109} INFO - [2021-09-29 10:05:12,978] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:05:13,061] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.144 seconds
+[2021-09-29 10:06:13,365] {processor.py:162} INFO - Started process (PID=83342) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:06:13,366] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:06:13,367] {logging_mixin.py:109} INFO - [2021-09-29 10:06:13,366] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:06:13,379] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:06:13,393] {logging_mixin.py:109} INFO - [2021-09-29 10:06:13,393] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:06:13,405] {logging_mixin.py:109} INFO - [2021-09-29 10:06:13,404] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:06:13,500] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.138 seconds
+[2021-09-29 10:07:18,919] {processor.py:162} INFO - Started process (PID=83520) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:07:18,923] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:07:18,925] {logging_mixin.py:109} INFO - [2021-09-29 10:07:18,925] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:07:18,942] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:07:18,956] {logging_mixin.py:109} INFO - [2021-09-29 10:07:18,956] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:07:18,968] {logging_mixin.py:109} INFO - [2021-09-29 10:07:18,967] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:07:19,052] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.143 seconds
+[2021-09-29 10:08:24,390] {processor.py:162} INFO - Started process (PID=83704) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:08:24,415] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:08:24,417] {logging_mixin.py:109} INFO - [2021-09-29 10:08:24,417] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:08:24,442] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:08:24,455] {logging_mixin.py:109} INFO - [2021-09-29 10:08:24,455] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:08:24,467] {logging_mixin.py:109} INFO - [2021-09-29 10:08:24,466] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:08:24,568] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.188 seconds
+[2021-09-29 10:09:25,434] {processor.py:162} INFO - Started process (PID=83882) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:09:25,437] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:09:25,439] {logging_mixin.py:109} INFO - [2021-09-29 10:09:25,438] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:09:25,462] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:09:25,476] {logging_mixin.py:109} INFO - [2021-09-29 10:09:25,475] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:09:25,488] {logging_mixin.py:109} INFO - [2021-09-29 10:09:25,488] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:09:25,576] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.148 seconds
+[2021-09-29 10:12:32,914] {processor.py:162} INFO - Started process (PID=84466) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:12:32,918] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:12:32,920] {logging_mixin.py:109} INFO - [2021-09-29 10:12:32,919] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:12:32,940] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:12:32,953] {logging_mixin.py:109} INFO - [2021-09-29 10:12:32,953] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:12:32,965] {logging_mixin.py:109} INFO - [2021-09-29 10:12:32,965] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:12:33,056] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.149 seconds
+[2021-09-29 10:13:50,645] {processor.py:162} INFO - Started process (PID=84687) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:13:50,657] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:13:50,657] {logging_mixin.py:109} INFO - [2021-09-29 10:13:50,657] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:13:50,671] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:13:50,685] {logging_mixin.py:109} INFO - [2021-09-29 10:13:50,685] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:13:50,696] {logging_mixin.py:109} INFO - [2021-09-29 10:13:50,696] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:13:51,645] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 1.004 seconds
+[2021-09-29 10:14:53,462] {processor.py:162} INFO - Started process (PID=84874) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:14:53,500] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:14:53,502] {logging_mixin.py:109} INFO - [2021-09-29 10:14:53,501] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:14:53,524] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:14:53,538] {logging_mixin.py:109} INFO - [2021-09-29 10:14:53,538] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:14:53,550] {logging_mixin.py:109} INFO - [2021-09-29 10:14:53,549] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:14:53,895] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.443 seconds
+[2021-09-29 10:15:53,052] {processor.py:162} INFO - Started process (PID=85064) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:15:53,053] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:15:53,054] {logging_mixin.py:109} INFO - [2021-09-29 10:15:53,054] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:15:53,068] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:15:53,082] {logging_mixin.py:109} INFO - [2021-09-29 10:15:53,082] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:15:53,093] {logging_mixin.py:109} INFO - [2021-09-29 10:15:53,093] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:15:53,841] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.792 seconds
+[2021-09-29 10:17:20,294] {processor.py:162} INFO - Started process (PID=85251) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:17:20,304] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:17:20,306] {logging_mixin.py:109} INFO - [2021-09-29 10:17:20,306] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:17:20,330] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:17:20,344] {logging_mixin.py:109} INFO - [2021-09-29 10:17:20,344] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:17:20,355] {logging_mixin.py:109} INFO - [2021-09-29 10:17:20,355] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:17:21,014] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.730 seconds
+[2021-09-29 10:18:22,666] {processor.py:162} INFO - Started process (PID=85424) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:18:22,673] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:18:22,673] {logging_mixin.py:109} INFO - [2021-09-29 10:18:22,673] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:18:22,689] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:18:22,703] {logging_mixin.py:109} INFO - [2021-09-29 10:18:22,703] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:18:22,715] {logging_mixin.py:109} INFO - [2021-09-29 10:18:22,715] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:18:22,808] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.145 seconds
+[2021-09-29 10:19:38,456] {processor.py:162} INFO - Started process (PID=85612) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:19:38,463] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:19:38,465] {logging_mixin.py:109} INFO - [2021-09-29 10:19:38,465] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:19:38,486] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:19:38,499] {logging_mixin.py:109} INFO - [2021-09-29 10:19:38,499] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:19:38,511] {logging_mixin.py:109} INFO - [2021-09-29 10:19:38,511] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:19:39,898] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 1.452 seconds
+[2021-09-29 10:20:50,374] {processor.py:162} INFO - Started process (PID=85802) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:20:50,383] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:20:50,385] {logging_mixin.py:109} INFO - [2021-09-29 10:20:50,385] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:20:50,406] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:20:50,419] {logging_mixin.py:109} INFO - [2021-09-29 10:20:50,419] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:20:50,431] {logging_mixin.py:109} INFO - [2021-09-29 10:20:50,431] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:20:50,554] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.190 seconds
+[2021-09-29 10:21:58,469] {processor.py:162} INFO - Started process (PID=86034) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:21:58,477] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:21:58,479] {logging_mixin.py:109} INFO - [2021-09-29 10:21:58,479] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:21:58,547] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:21:58,583] {logging_mixin.py:109} INFO - [2021-09-29 10:21:58,583] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:21:58,596] {logging_mixin.py:109} INFO - [2021-09-29 10:21:58,596] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:21:59,365] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.907 seconds
+[2021-09-29 10:23:24,114] {processor.py:162} INFO - Started process (PID=86268) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:23:24,127] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:23:24,128] {logging_mixin.py:109} INFO - [2021-09-29 10:23:24,128] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:23:24,180] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:23:24,200] {logging_mixin.py:109} INFO - [2021-09-29 10:23:24,200] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:23:24,212] {logging_mixin.py:109} INFO - [2021-09-29 10:23:24,211] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:23:25,527] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 1.425 seconds
+[2021-09-29 10:24:38,948] {processor.py:162} INFO - Started process (PID=86530) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:24:38,969] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:24:38,970] {logging_mixin.py:109} INFO - [2021-09-29 10:24:38,970] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:24:38,995] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:24:39,023] {logging_mixin.py:109} INFO - [2021-09-29 10:24:39,022] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:24:39,038] {logging_mixin.py:109} INFO - [2021-09-29 10:24:39,038] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:24:39,129] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.186 seconds
+[2021-09-29 10:25:41,674] {processor.py:162} INFO - Started process (PID=86925) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:25:41,677] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:25:41,679] {logging_mixin.py:109} INFO - [2021-09-29 10:25:41,679] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:25:41,714] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:25:41,731] {logging_mixin.py:109} INFO - [2021-09-29 10:25:41,731] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:25:41,745] {logging_mixin.py:109} INFO - [2021-09-29 10:25:41,744] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:25:41,832] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.165 seconds
+[2021-09-29 10:26:40,181] {processor.py:162} INFO - Started process (PID=87094) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:26:40,184] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:26:40,186] {logging_mixin.py:109} INFO - [2021-09-29 10:26:40,185] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:26:40,228] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:26:40,248] {logging_mixin.py:109} INFO - [2021-09-29 10:26:40,248] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:26:40,261] {logging_mixin.py:109} INFO - [2021-09-29 10:26:40,261] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:26:40,354] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.182 seconds
+[2021-09-29 10:27:47,300] {processor.py:162} INFO - Started process (PID=87285) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:27:47,320] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:27:47,322] {logging_mixin.py:109} INFO - [2021-09-29 10:27:47,322] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:27:47,361] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:27:47,383] {logging_mixin.py:109} INFO - [2021-09-29 10:27:47,382] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:27:47,396] {logging_mixin.py:109} INFO - [2021-09-29 10:27:47,396] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:27:47,480] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.183 seconds
+[2021-09-29 10:28:58,859] {processor.py:162} INFO - Started process (PID=87468) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:28:58,871] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:28:58,873] {logging_mixin.py:109} INFO - [2021-09-29 10:28:58,873] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:28:58,903] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:28:58,928] {logging_mixin.py:109} INFO - [2021-09-29 10:28:58,928] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:28:58,948] {logging_mixin.py:109} INFO - [2021-09-29 10:28:58,948] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:28:59,078] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.230 seconds
+[2021-09-29 10:30:16,442] {processor.py:162} INFO - Started process (PID=87757) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:30:16,455] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:30:16,457] {logging_mixin.py:109} INFO - [2021-09-29 10:30:16,457] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:30:16,500] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:30:16,520] {logging_mixin.py:109} INFO - [2021-09-29 10:30:16,520] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:30:16,533] {logging_mixin.py:109} INFO - [2021-09-29 10:30:16,533] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:30:16,627] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.194 seconds
+[2021-09-29 10:31:11,592] {processor.py:162} INFO - Started process (PID=87936) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:31:11,756] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:31:11,758] {logging_mixin.py:109} INFO - [2021-09-29 10:31:11,757] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:31:11,810] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:31:11,835] {logging_mixin.py:109} INFO - [2021-09-29 10:31:11,835] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:31:11,851] {logging_mixin.py:109} INFO - [2021-09-29 10:31:11,851] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:31:11,933] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.349 seconds
+[2021-09-29 10:32:19,571] {processor.py:162} INFO - Started process (PID=88134) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:32:19,576] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:32:19,578] {logging_mixin.py:109} INFO - [2021-09-29 10:32:19,577] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:32:19,623] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:32:19,641] {logging_mixin.py:109} INFO - [2021-09-29 10:32:19,641] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:32:19,655] {logging_mixin.py:109} INFO - [2021-09-29 10:32:19,655] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:32:19,739] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.178 seconds
+[2021-09-29 10:33:29,085] {processor.py:162} INFO - Started process (PID=88311) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:33:29,097] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:33:29,099] {logging_mixin.py:109} INFO - [2021-09-29 10:33:29,098] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:33:29,133] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:33:29,148] {logging_mixin.py:109} INFO - [2021-09-29 10:33:29,148] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:33:29,161] {logging_mixin.py:109} INFO - [2021-09-29 10:33:29,161] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:33:29,254] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.178 seconds
+[2021-09-29 10:34:33,986] {processor.py:162} INFO - Started process (PID=88487) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:34:34,014] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:34:34,018] {logging_mixin.py:109} INFO - [2021-09-29 10:34:34,017] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:34:34,073] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:34:34,090] {logging_mixin.py:109} INFO - [2021-09-29 10:34:34,090] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:34:34,103] {logging_mixin.py:109} INFO - [2021-09-29 10:34:34,103] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:34:34,195] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.223 seconds
+[2021-09-29 10:35:42,702] {processor.py:162} INFO - Started process (PID=88671) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:35:42,706] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:35:42,708] {logging_mixin.py:109} INFO - [2021-09-29 10:35:42,708] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:35:42,747] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:35:42,764] {logging_mixin.py:109} INFO - [2021-09-29 10:35:42,764] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:35:42,776] {logging_mixin.py:109} INFO - [2021-09-29 10:35:42,776] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:35:43,284] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.592 seconds
+[2021-09-29 10:36:46,719] {processor.py:162} INFO - Started process (PID=88847) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:36:46,735] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:36:46,736] {logging_mixin.py:109} INFO - [2021-09-29 10:36:46,736] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:36:46,774] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:36:46,789] {logging_mixin.py:109} INFO - [2021-09-29 10:36:46,789] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:36:46,802] {logging_mixin.py:109} INFO - [2021-09-29 10:36:46,802] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:36:46,885] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.175 seconds
+[2021-09-29 10:37:58,405] {processor.py:162} INFO - Started process (PID=89029) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:37:58,433] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:37:58,436] {logging_mixin.py:109} INFO - [2021-09-29 10:37:58,435] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:37:58,458] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:37:58,473] {logging_mixin.py:109} INFO - [2021-09-29 10:37:58,473] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:37:58,487] {logging_mixin.py:109} INFO - [2021-09-29 10:37:58,486] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:37:58,657] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.263 seconds
+[2021-09-29 10:39:06,805] {processor.py:162} INFO - Started process (PID=89225) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:39:06,816] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:39:06,818] {logging_mixin.py:109} INFO - [2021-09-29 10:39:06,817] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:39:06,865] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:39:06,881] {logging_mixin.py:109} INFO - [2021-09-29 10:39:06,881] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:39:06,896] {logging_mixin.py:109} INFO - [2021-09-29 10:39:06,896] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:39:06,989] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.196 seconds
+[2021-09-29 10:40:13,085] {processor.py:162} INFO - Started process (PID=89400) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:40:13,089] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:40:13,090] {logging_mixin.py:109} INFO - [2021-09-29 10:40:13,090] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:40:13,109] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:40:13,123] {logging_mixin.py:109} INFO - [2021-09-29 10:40:13,123] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:40:13,134] {logging_mixin.py:109} INFO - [2021-09-29 10:40:13,134] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:40:13,221] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.145 seconds
+[2021-09-29 10:41:21,502] {processor.py:162} INFO - Started process (PID=89587) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:41:21,523] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:41:21,525] {logging_mixin.py:109} INFO - [2021-09-29 10:41:21,525] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:41:21,553] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:41:21,567] {logging_mixin.py:109} INFO - [2021-09-29 10:41:21,567] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:41:21,579] {logging_mixin.py:109} INFO - [2021-09-29 10:41:21,579] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:41:22,086] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.588 seconds
+[2021-09-29 10:42:19,353] {processor.py:162} INFO - Started process (PID=89631) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:42:19,355] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:42:19,356] {logging_mixin.py:109} INFO - [2021-09-29 10:42:19,355] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:42:19,371] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:42:19,386] {logging_mixin.py:109} INFO - [2021-09-29 10:42:19,386] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:42:19,397] {logging_mixin.py:109} INFO - [2021-09-29 10:42:19,397] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:42:19,883] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.533 seconds
+[2021-09-29 10:43:16,513] {processor.py:162} INFO - Started process (PID=89796) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:43:16,518] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:43:16,520] {logging_mixin.py:109} INFO - [2021-09-29 10:43:16,520] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:43:16,539] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:43:16,552] {logging_mixin.py:109} INFO - [2021-09-29 10:43:16,552] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:43:16,564] {logging_mixin.py:109} INFO - [2021-09-29 10:43:16,564] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:43:16,656] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.154 seconds
+[2021-09-29 10:44:05,833] {processor.py:162} INFO - Started process (PID=89961) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:44:05,835] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:44:05,835] {logging_mixin.py:109} INFO - [2021-09-29 10:44:05,835] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:44:05,848] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:44:05,861] {logging_mixin.py:109} INFO - [2021-09-29 10:44:05,861] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:44:05,872] {logging_mixin.py:109} INFO - [2021-09-29 10:44:05,872] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:44:05,956] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2021-09-29 10:45:09,290] {processor.py:162} INFO - Started process (PID=90146) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:45:09,294] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:45:09,295] {logging_mixin.py:109} INFO - [2021-09-29 10:45:09,295] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:45:09,312] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:45:09,326] {logging_mixin.py:109} INFO - [2021-09-29 10:45:09,326] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:45:09,338] {logging_mixin.py:109} INFO - [2021-09-29 10:45:09,338] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:45:09,714] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.434 seconds
+[2021-09-29 10:45:57,844] {processor.py:162} INFO - Started process (PID=90305) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:45:57,850] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:45:57,851] {logging_mixin.py:109} INFO - [2021-09-29 10:45:57,851] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:45:57,864] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:45:57,878] {logging_mixin.py:109} INFO - [2021-09-29 10:45:57,878] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:45:57,889] {logging_mixin.py:109} INFO - [2021-09-29 10:45:57,889] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:45:57,977] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.135 seconds
+[2021-09-29 10:47:38,778] {processor.py:162} INFO - Started process (PID=90778) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:47:38,783] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:47:38,784] {logging_mixin.py:109} INFO - [2021-09-29 10:47:38,784] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:47:38,801] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:47:38,815] {logging_mixin.py:109} INFO - [2021-09-29 10:47:38,815] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:47:38,827] {logging_mixin.py:109} INFO - [2021-09-29 10:47:38,827] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:47:39,628] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.860 seconds
+[2021-09-29 10:48:48,884] {processor.py:162} INFO - Started process (PID=90961) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:48:48,887] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:48:48,888] {logging_mixin.py:109} INFO - [2021-09-29 10:48:48,888] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:48:48,904] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:48:48,918] {logging_mixin.py:109} INFO - [2021-09-29 10:48:48,918] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:48:48,929] {logging_mixin.py:109} INFO - [2021-09-29 10:48:48,929] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:48:49,021] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.147 seconds
+[2021-09-29 10:49:51,808] {processor.py:162} INFO - Started process (PID=91139) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:49:51,809] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:49:51,810] {logging_mixin.py:109} INFO - [2021-09-29 10:49:51,810] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:49:51,823] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:49:51,837] {logging_mixin.py:109} INFO - [2021-09-29 10:49:51,837] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:49:51,848] {logging_mixin.py:109} INFO - [2021-09-29 10:49:51,848] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:49:51,927] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.121 seconds
+[2021-09-29 10:50:56,886] {processor.py:162} INFO - Started process (PID=91313) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:50:56,891] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:50:56,893] {logging_mixin.py:109} INFO - [2021-09-29 10:50:56,892] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:50:56,911] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:50:56,925] {logging_mixin.py:109} INFO - [2021-09-29 10:50:56,925] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:50:56,936] {logging_mixin.py:109} INFO - [2021-09-29 10:50:56,936] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:50:57,026] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.150 seconds
+[2021-09-29 10:52:04,900] {processor.py:162} INFO - Started process (PID=91495) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:52:04,919] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:52:04,921] {logging_mixin.py:109} INFO - [2021-09-29 10:52:04,920] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:52:04,948] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:52:04,962] {logging_mixin.py:109} INFO - [2021-09-29 10:52:04,962] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:52:04,974] {logging_mixin.py:109} INFO - [2021-09-29 10:52:04,974] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:52:05,054] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.164 seconds
+[2021-09-29 10:53:07,225] {processor.py:162} INFO - Started process (PID=91672) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:53:07,240] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:53:07,242] {logging_mixin.py:109} INFO - [2021-09-29 10:53:07,242] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:53:07,269] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:53:07,283] {logging_mixin.py:109} INFO - [2021-09-29 10:53:07,283] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:53:07,294] {logging_mixin.py:109} INFO - [2021-09-29 10:53:07,294] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:53:07,766] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.552 seconds
+[2021-09-29 10:54:10,651] {processor.py:162} INFO - Started process (PID=91842) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:54:10,667] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:54:10,669] {logging_mixin.py:109} INFO - [2021-09-29 10:54:10,669] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:54:10,695] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:54:10,709] {logging_mixin.py:109} INFO - [2021-09-29 10:54:10,709] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:54:10,720] {logging_mixin.py:109} INFO - [2021-09-29 10:54:10,720] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:54:10,818] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.178 seconds
+[2021-09-29 10:55:00,853] {processor.py:162} INFO - Started process (PID=91877) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:55:00,855] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:55:00,856] {logging_mixin.py:109} INFO - [2021-09-29 10:55:00,855] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:55:00,869] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:55:00,883] {logging_mixin.py:109} INFO - [2021-09-29 10:55:00,883] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:55:00,894] {logging_mixin.py:109} INFO - [2021-09-29 10:55:00,894] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:55:00,986] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.135 seconds
+[2021-09-29 10:55:56,206] {processor.py:162} INFO - Started process (PID=92046) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:55:56,210] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:55:56,212] {logging_mixin.py:109} INFO - [2021-09-29 10:55:56,212] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:55:56,231] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:55:56,245] {logging_mixin.py:109} INFO - [2021-09-29 10:55:56,245] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:55:56,257] {logging_mixin.py:109} INFO - [2021-09-29 10:55:56,257] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:55:56,350] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.154 seconds
+[2021-09-29 10:56:45,671] {processor.py:162} INFO - Started process (PID=92214) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:56:45,684] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:56:45,686] {logging_mixin.py:109} INFO - [2021-09-29 10:56:45,686] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:56:45,710] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:56:45,724] {logging_mixin.py:109} INFO - [2021-09-29 10:56:45,724] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:56:45,736] {logging_mixin.py:109} INFO - [2021-09-29 10:56:45,735] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:56:45,827] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.166 seconds
+[2021-09-29 10:57:47,901] {processor.py:162} INFO - Started process (PID=92386) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:57:47,907] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:57:47,909] {logging_mixin.py:109} INFO - [2021-09-29 10:57:47,908] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:57:47,930] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:57:47,944] {logging_mixin.py:109} INFO - [2021-09-29 10:57:47,944] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:57:47,956] {logging_mixin.py:109} INFO - [2021-09-29 10:57:47,956] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:57:48,044] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.153 seconds
+[2021-09-29 10:58:50,210] {processor.py:162} INFO - Started process (PID=92567) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:58:50,216] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:58:50,218] {logging_mixin.py:109} INFO - [2021-09-29 10:58:50,218] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:58:50,239] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:58:50,253] {logging_mixin.py:109} INFO - [2021-09-29 10:58:50,253] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:58:50,264] {logging_mixin.py:109} INFO - [2021-09-29 10:58:50,264] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:58:50,350] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.149 seconds
+[2021-09-29 10:59:53,309] {processor.py:162} INFO - Started process (PID=92742) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:59:53,319] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 10:59:53,322] {logging_mixin.py:109} INFO - [2021-09-29 10:59:53,321] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:59:53,344] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 10:59:53,358] {logging_mixin.py:109} INFO - [2021-09-29 10:59:53,358] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 10:59:53,369] {logging_mixin.py:109} INFO - [2021-09-29 10:59:53,369] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 10:59:53,452] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.152 seconds
+[2021-09-29 11:00:56,536] {processor.py:162} INFO - Started process (PID=92919) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:00:56,544] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 11:00:56,546] {logging_mixin.py:109} INFO - [2021-09-29 11:00:56,546] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:00:56,581] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:00:56,596] {logging_mixin.py:109} INFO - [2021-09-29 11:00:56,596] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:00:56,607] {logging_mixin.py:109} INFO - [2021-09-29 11:00:56,607] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:00:57,241] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.715 seconds
+[2021-09-29 11:01:59,921] {processor.py:162} INFO - Started process (PID=93111) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:01:59,932] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 11:01:59,934] {logging_mixin.py:109} INFO - [2021-09-29 11:01:59,934] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:01:59,955] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:01:59,970] {logging_mixin.py:109} INFO - [2021-09-29 11:01:59,970] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:01:59,981] {logging_mixin.py:109} INFO - [2021-09-29 11:01:59,981] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:02:00,067] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.155 seconds
+[2021-09-29 11:03:01,443] {processor.py:162} INFO - Started process (PID=93293) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:03:01,547] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 11:03:01,550] {logging_mixin.py:109} INFO - [2021-09-29 11:03:01,549] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:03:01,585] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:03:01,599] {logging_mixin.py:109} INFO - [2021-09-29 11:03:01,599] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:03:01,611] {logging_mixin.py:109} INFO - [2021-09-29 11:03:01,611] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:03:01,690] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.258 seconds
+[2021-09-29 11:04:03,895] {processor.py:162} INFO - Started process (PID=93465) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:04:03,897] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 11:04:03,897] {logging_mixin.py:109} INFO - [2021-09-29 11:04:03,897] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:04:03,915] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:04:03,929] {logging_mixin.py:109} INFO - [2021-09-29 11:04:03,929] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:04:03,941] {logging_mixin.py:109} INFO - [2021-09-29 11:04:03,941] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:04:04,030] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.138 seconds
+[2021-09-29 11:05:07,952] {processor.py:162} INFO - Started process (PID=93638) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:05:07,955] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 11:05:07,956] {logging_mixin.py:109} INFO - [2021-09-29 11:05:07,956] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:05:07,970] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:05:07,984] {logging_mixin.py:109} INFO - [2021-09-29 11:05:07,984] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:05:07,995] {logging_mixin.py:109} INFO - [2021-09-29 11:05:07,995] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:05:08,419] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.474 seconds
+[2021-09-29 11:06:12,671] {processor.py:162} INFO - Started process (PID=93813) to work on /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:06:12,683] {processor.py:613} INFO - Processing file /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-09-29 11:06:12,686] {logging_mixin.py:109} INFO - [2021-09-29 11:06:12,685] {dagbag.py:496} INFO - Filling up the DagBag from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:06:12,711] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-09-29 11:06:12,725] {logging_mixin.py:109} INFO - [2021-09-29 11:06:12,725] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-29 11:06:12,737] {logging_mixin.py:109} INFO - [2021-09-29 11:06:12,737] {dag.py:2287} INFO - Setting next_dagrun for example_branch_operator to 2021-09-27 00:00:00+00:00
+[2021-09-29 11:06:12,825] {processor.py:170} INFO - Processing /home/aman/PycharmProjects/air_my/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.164 seconds
